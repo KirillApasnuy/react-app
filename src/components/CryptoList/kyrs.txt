@@ -1,0 +1,6329 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "rank": 1,
+      "slug": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "category": "Currency",
+      "type": "coin",
+      "volume24hBase": 144739.1814,
+      "circulatingSupply": 19688375,
+      "totalSupply": 21000000,
+      "maxSupply": 21000000,
+      "values": {
+        "USD": {
+          "price": 64778.2068977383,
+          "volume24h": 9375944638,
+          "high24h": 65636.8774551832,
+          "low24h": 64356.1582101147,
+          "marketCap": 1275377629230.26,
+          "percentChange24h": -0.3695,
+          "percentChange7d": -0.7952,
+          "percentChange30d": 1.0403,
+          "percentChange3m": 63.8573,
+          "percentChange6m": 96.3967
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.330Z",
+      "tokens": []
+    },
+    {
+      "id": 3,
+      "rank": 2,
+      "slug": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 1341035.1364,
+      "circulatingSupply": 120071333,
+      "totalSupply": 120072367,
+      "values": {
+        "USD": {
+          "price": 3143.0032396494,
+          "volume24h": 4214877778,
+          "high24h": 3194.61038159195,
+          "low24h": 3125.76773864708,
+          "marketCap": 377384588608.022,
+          "percentChange24h": -0.189,
+          "percentChange7d": 0.1892,
+          "percentChange30d": -6.2175,
+          "percentChange3m": 35.957,
+          "percentChange6m": 78.1268
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.330Z",
+      "tokens": []
+    },
+    {
+      "id": 16,
+      "rank": 3,
+      "slug": "tether",
+      "name": "Tether",
+      "symbol": "USDT",
+      "category": "Stablecoin",
+      "type": "token",
+      "volume24hBase": 23861904897.0363,
+      "circulatingSupply": 109840251115,
+      "totalSupply": 109840251115,
+      "values": {
+        "USD": {
+          "price": 1.000285749416,
+          "volume24h": 23868723422,
+          "high24h": 1.000566773937,
+          "low24h": 1.00014919769,
+          "marketCap": 109871637902.609,
+          "percentChange24h": -0.021,
+          "percentChange7d": -0.0791,
+          "percentChange30d": -0.0043,
+          "percentChange3m": 0.1245,
+          "percentChange6m": -0.0118
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.330Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+          "platform": {
+            "id": 96,
+            "name": "zkSync Era",
+            "slug": "zksync-era"
+          }
+        },
+        {
+          "tokenAddress": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+          "platform": {
+            "id": 99,
+            "name": "Sui",
+            "slug": "sui"
+          }
+        },
+        {
+          "tokenAddress": "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva",
+          "platform": {
+            "id": 2,
+            "name": "Terra Classic",
+            "slug": "luna"
+          }
+        },
+        {
+          "tokenAddress": "KT1XnTn74bUtxHfDtBmm2bGZAQfhPbvKWR8o",
+          "platform": {
+            "id": 41,
+            "name": "Tezos",
+            "slug": "tezos"
+          }
+        },
+        {
+          "tokenAddress": "0x9636d3294e45823ec924c8d89dd1f1dffcf044e6",
+          "platform": {
+            "id": 21,
+            "name": "Fusion Network",
+            "slug": "fusion"
+          }
+        },
+        {
+          "tokenAddress": "0xfadbbf8ce7d5b7041be672561bba99f79c532e10",
+          "platform": {
+            "id": 47,
+            "name": "Fuse Network",
+            "slug": "fuse-network"
+          }
+        },
+        {
+          "tokenAddress": "0x398dcA951cD4fc18264d995DCD171aa5dEbDa129",
+          "platform": {
+            "id": 134,
+            "name": "CSC",
+            "slug": "csc"
+          }
+        },
+        {
+          "tokenAddress": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+          "platform": {
+            "id": 100,
+            "name": "Dogechain",
+            "slug": "dogechain"
+          }
+        },
+        {
+          "tokenAddress": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+          "platform": {
+            "id": 102,
+            "name": "Polygon zkEVM",
+            "slug": "polygon-zkevm"
+          }
+        },
+        {
+          "tokenAddress": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
+          "platform": {
+            "id": 97,
+            "name": "PulseChain",
+            "slug": "pulsechain"
+          }
+        },
+        {
+          "tokenAddress": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+          "platform": {
+            "id": 127,
+            "name": "Milkomeda C1",
+            "slug": "molkomeda-c1"
+          }
+        },
+        {
+          "tokenAddress": "0xfe97E85d13ABD9c1c33384E796F10B73905637cE",
+          "platform": {
+            "id": 39,
+            "name": "Conflux Network",
+            "slug": "conflux-network"
+          }
+        },
+        {
+          "tokenAddress": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+          "platform": {
+            "id": 101,
+            "name": "Linea",
+            "slug": "linea"
+          }
+        },
+        {
+          "tokenAddress": "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
+          "platform": {
+            "id": 197,
+            "name": "CORE",
+            "slug": "core"
+          }
+        },
+        {
+          "tokenAddress": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
+          "platform": {
+            "id": 210,
+            "name": "Rollux",
+            "slug": "rollux"
+          }
+        },
+        {
+          "tokenAddress": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+          "platform": {
+            "id": 217,
+            "name": "Step",
+            "slug": "step"
+          }
+        },
+        {
+          "tokenAddress": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+          "platform": {
+            "id": 218,
+            "name": "Crab",
+            "slug": "crab"
+          }
+        },
+        {
+          "tokenAddress": "0x919c1c267bc06a7039e03fcc2ef738525769109c",
+          "platform": {
+            "id": 81,
+            "name": "Kava",
+            "slug": "kava"
+          }
+        },
+        {
+          "tokenAddress": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+          "platform": {
+            "id": 103,
+            "name": "Mantle",
+            "slug": "mantle"
+          }
+        },
+        {
+          "tokenAddress": "0x0Cf7c2A584988871b654Bd79f96899e4cd6C41C0",
+          "platform": {
+            "id": 117,
+            "name": "Kroma",
+            "slug": "kroma"
+          }
+        },
+        {
+          "tokenAddress": "0x68f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8",
+          "platform": {
+            "id": 106,
+            "name": "Starknet",
+            "slug": "starknet"
+          }
+        },
+        {
+          "tokenAddress": "0x02f9bebf5e54968d8cc2562356c91ecde135801b",
+          "platform": {
+            "id": 166,
+            "name": "Pego",
+            "slug": "pego"
+          }
+        },
+        {
+          "tokenAddress": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+          "platform": {
+            "id": 108,
+            "name": "Scroll",
+            "slug": "scroll"
+          }
+        },
+        {
+          "tokenAddress": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+          "platform": {
+            "id": 110,
+            "name": "opBNB",
+            "slug": "opbnb"
+          }
+        },
+        {
+          "tokenAddress": "0x988a631caf24e14bb77ee0f5ca881e8b5dcfcec7",
+          "platform": {
+            "id": 151,
+            "name": "REI",
+            "slug": "rei"
+          }
+        },
+        {
+          "tokenAddress": "0xfd36c336eb67a092dc80a063ff0644e13142d454",
+          "platform": {
+            "id": 152,
+            "name": "MultiVAC",
+            "slug": "multivac"
+          }
+        },
+        {
+          "tokenAddress": "0xc2c527c0cacf457746bd31b2a698fe89de2b6d49",
+          "platform": {
+            "id": 232,
+            "name": "Goerli",
+            "slug": "goerli"
+          }
+        },
+        {
+          "tokenAddress": "0xa3200696761a0cf122de2a679f745b3f8cfa2623",
+          "platform": {
+            "id": 155,
+            "name": "Loop",
+            "slug": "loop"
+          }
+        },
+        {
+          "tokenAddress": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+          "platform": {
+            "id": 143,
+            "name": "Manta",
+            "slug": "manta"
+          }
+        },
+        {
+          "tokenAddress": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "platform": {
+            "id": 147,
+            "name": "Injective",
+            "slug": "injective"
+          }
+        },
+        {
+          "tokenAddress": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
+          "platform": {
+            "id": 141,
+            "name": "Osmosis",
+            "slug": "osmosis"
+          }
+        },
+        {
+          "tokenAddress": "4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3",
+          "platform": {
+            "id": 137,
+            "name": "RENEC",
+            "slug": "renec"
+          }
+        },
+        {
+          "tokenAddress": "e1d869a83212628ec82a4e039a95371a9ae4598c8459193ccfd0f2f2c689831f",
+          "platform": {
+            "id": 138,
+            "name": "MVC",
+            "slug": "mvc"
+          }
+        },
+        {
+          "tokenAddress": "A95EBDF88AC1E3FDECAA1D6E250B07C0C86475A3E2BFA2E7DC94A6CDE23DF6D6",
+          "platform": {
+            "id": 255,
+            "name": "Aura Network",
+            "slug": "aura-network"
+          }
+        },
+        {
+          "tokenAddress": "0x9350502a3af6c617e9a42fa9e306a385::BX_USDT::BX_USDT",
+          "platform": {
+            "id": 215,
+            "name": "Starcoin",
+            "slug": "starcoin"
+          }
+        },
+        {
+          "tokenAddress": "0xefcAA73145B5e29eEfc47bcbaeFF9e870Fa6a610",
+          "platform": {
+            "id": 130,
+            "name": "ZYX",
+            "slug": "zyx"
+          }
+        },
+        {
+          "tokenAddress": "0x91Aa258324072dFf6F82408c2beB2F82D353b300",
+          "platform": {
+            "id": 131,
+            "name": "Tenet",
+            "slug": "tenet"
+          }
+        },
+        {
+          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0x3eee5d2ed0205f93969a59f7c8597fb614264436",
+          "platform": {
+            "id": 114,
+            "name": "EthereumFair",
+            "slug": "ethereumfair"
+          }
+        },
+        {
+          "tokenAddress": "0x5eDCCFcAC24A89F3b87f2bfAB618a509FA6e3105",
+          "platform": {
+            "id": 122,
+            "name": "Lung",
+            "slug": "lung"
+          }
+        },
+        {
+          "tokenAddress": "0xd378634119d2f7b3cf3d60e0b0f5e048e74ce3cf",
+          "platform": {
+            "id": 124,
+            "name": "HPB",
+            "slug": "hpb"
+          }
+        },
+        {
+          "tokenAddress": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+          "platform": {
+            "id": 125,
+            "name": "Milkomeda A1",
+            "slug": "milkomeda-a1"
+          }
+        },
+        {
+          "tokenAddress": "0x5f0155d08ef4aae2b500aefb64a3419da8bb611a",
+          "platform": {
+            "id": 121,
+            "name": " Neon EVM",
+            "slug": "neon-evm"
+          }
+        },
+        {
+          "tokenAddress": "0x55d398326f99059ff775485246999027b3197955",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "usdt.tether-token.near",
+          "platform": {
+            "id": 29,
+            "name": "Near Protocol",
+            "slug": "near-protocol"
+          }
+        },
+        {
+          "tokenAddress": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+          "platform": {
+            "id": 78,
+            "name": "Gnosis Chain",
+            "slug": "xdaistable"
+          }
+        },
+        {
+          "tokenAddress": "0x381B31409e4D220919B2cFF012ED94d70135A59e",
+          "platform": {
+            "id": 48,
+            "name": "Viction (TomoChain)",
+            "slug": "tomochain"
+          }
+        },
+        {
+          "tokenAddress": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+          "platform": {
+            "id": 6,
+            "name": "TRON",
+            "slug": "tron"
+          }
+        },
+        {
+          "tokenAddress": "32TLn1WLcu8LtfvweLzYUYU6ubc2YV9eZs",
+          "platform": {
+            "id": 38,
+            "name": "Omni",
+            "slug": "omni"
+          }
+        },
+        {
+          "tokenAddress": "zil1sxx29cshups269ahh5qjffyr58mxjv9ft78jqy",
+          "platform": {
+            "id": 76,
+            "name": "Zilliqa",
+            "slug": "zilliqa"
+          }
+        },
+        {
+          "tokenAddress": "secret18wpjn83dayu4meu6wnn29khfkwdxs7kyrz9c8f",
+          "platform": {
+            "id": 63,
+            "name": "Secret Network",
+            "slug": "secret"
+          }
+        },
+        {
+          "tokenAddress": "0xdc19a122e268128b5ee20366299fc7b5b199c8e3",
+          "platform": {
+            "id": 85,
+            "name": "Oasis Network",
+            "slug": "oasis-network"
+          }
+        },
+        {
+          "tokenAddress": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
+          "platform": {
+            "id": 31,
+            "name": "Aurora",
+            "slug": "aurora-evm"
+          }
+        },
+        {
+          "tokenAddress": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+          "platform": {
+            "id": 17,
+            "name": "Metis Andromeda",
+            "slug": "metisdao"
+          }
+        },
+        {
+          "tokenAddress": "0xe936caa7f6d9f5c9e907111fcaf7c351c184cda7",
+          "platform": {
+            "id": 11,
+            "name": "Moonriver",
+            "slug": "moonriver"
+          }
+        },
+        {
+          "tokenAddress": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+          "platform": {
+            "id": 18,
+            "name": "KardiaChain",
+            "slug": "kardiachain"
+          }
+        },
+        {
+          "tokenAddress": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1",
+          "platform": {
+            "id": 43,
+            "name": "IoTeX",
+            "slug": "iotex"
+          }
+        },
+        {
+          "tokenAddress": "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
+          "platform": {
+            "id": 83,
+            "name": "Cardano",
+            "slug": "cardano"
+          }
+        },
+        {
+          "platform": {
+            "id": 90,
+            "name": "Astar",
+            "slug": "astar"
+          }
+        },
+        {
+          "tokenAddress": "312769",
+          "platform": {
+            "id": 57,
+            "name": "Algorand",
+            "slug": "algorand"
+          }
+        },
+        {
+          "tokenAddress": "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2",
+          "platform": {
+            "id": 93,
+            "name": "Everscale",
+            "slug": "everscale"
+          }
+        },
+        {
+          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+          "platform": {
+            "id": 14,
+            "name": "HECO Chain",
+            "slug": "huobi-token"
+          }
+        },
+        {
+          "tokenAddress": "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
+          "platform": {
+            "id": 71,
+            "name": "KCC",
+            "slug": "kucoin-shares"
+          }
+        },
+        {
+          "tokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+          "platform": {
+            "id": 91,
+            "name": "Aptos",
+            "slug": "aptos"
+          }
+        },
+        {
+          "tokenAddress": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "platform": {
+            "id": 45,
+            "name": "OKC",
+            "slug": "okexchain"
+          }
+        },
+        {
+          "tokenAddress": "0xEf213441a85DF4d7acBdAe0Cf78004E1e486BB96",
+          "platform": {
+            "id": 82,
+            "name": "RSK",
+            "slug": "rsk"
+          }
+        },
+        {
+          "tokenAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+          "platform": {
+            "id": 7,
+            "name": "Avalanche C-Chain",
+            "slug": "avalanche"
+          }
+        },
+        {
+          "tokenAddress": "0x66e428c3f67a68878562e79a0234c1f83c208770",
+          "platform": {
+            "id": 75,
+            "name": "Cronos",
+            "slug": "crypto-com-cro"
+          }
+        },
+        {
+          "tokenAddress": "0x01445c31581c354b7338ac35693ab2001b50b9ae",
+          "platform": {
+            "id": 33,
+            "name": "Velas",
+            "slug": "velas"
+          }
+        },
+        {
+          "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        },
+        {
+          "tokenAddress": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+          "platform": {
+            "id": 52,
+            "name": "Moonbeam",
+            "slug": "glimmer"
+          }
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "rank": 4,
+      "slug": "bnb",
+      "name": "BNB",
+      "symbol": "BNB",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 965727.6266,
+      "circulatingSupply": 153856150,
+      "totalSupply": 153856150,
+      "values": {
+        "USD": {
+          "price": 580.699356330669,
+          "volume24h": 560797411,
+          "high24h": 584.768392712214,
+          "low24h": 568.840744900766,
+          "marketCap": 89344167272.5149,
+          "percentChange24h": 1.6474,
+          "percentChange7d": 3.1673,
+          "percentChange30d": 3.5763,
+          "percentChange3m": 90.2231,
+          "percentChange6m": 154.5048
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.330Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x70a07c8dce789d9cc249b3f816bdacd2bbed66cc",
+          "platform": {
+            "id": 135,
+            "name": "ENULS",
+            "slug": "enuls"
+          }
+        },
+        {
+          "tokenAddress": "0x48f80608B672DC30DC7e3dbBd0343c5F02C738Eb",
+          "platform": {
+            "id": 199,
+            "name": "ZetaChain",
+            "slug": "zetachain"
+          }
+        },
+        {
+          "tokenAddress": "0xf8aB4aaf70cef3F3659d3F466E35Dc7ea10d4A5d",
+          "platform": {
+            "id": 118,
+            "name": "REIchain",
+            "slug": "reichain"
+          }
+        },
+        {
+          "tokenAddress": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+          "platform": {
+            "id": 158,
+            "name": "BitTorrent",
+            "slug": "bittorrent"
+          }
+        },
+        {
+          "tokenAddress": "0x4200000000000000000000000000000000000023",
+          "platform": {
+            "id": 227,
+            "name": "Boba BNB",
+            "slug": "boba-bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5663,
+      "rank": 5,
+      "slug": "solana",
+      "name": "Solana",
+      "symbol": "SOL",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 11257704.2902,
+      "circulatingSupply": 446927588,
+      "totalSupply": 574444907,
+      "values": {
+        "USD": {
+          "price": 148.010901877394,
+          "volume24h": 1666262965,
+          "high24h": 153.255980930744,
+          "low24h": 147.552783808005,
+          "marketCap": 66150155373.7684,
+          "percentChange24h": -1.135,
+          "percentChange7d": -0.1359,
+          "percentChange30d": -16.2974,
+          "percentChange3m": 77.1007,
+          "percentChange6m": 365.2774
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.330Z",
+      "tokens": []
+    },
+    {
+      "id": 5487,
+      "rank": 6,
+      "slug": "usdcoin",
+      "name": "USDC",
+      "symbol": "USDC",
+      "category": "Stablecoin",
+      "type": "token",
+      "volume24hBase": 1675000730.848,
+      "circulatingSupply": 33002082258,
+      "totalSupply": 33002082258,
+      "values": {
+        "USD": {
+          "price": 1.000143831045,
+          "volume24h": 1675241647,
+          "high24h": 1.000217097383,
+          "low24h": 0.999988129404,
+          "marketCap": 33006828981.9783,
+          "percentChange24h": 0.0018,
+          "percentChange7d": 0.0189,
+          "percentChange30d": -0.0081,
+          "percentChange3m": 0.0008,
+          "percentChange6m": 0.0191
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x6963EfED0aB40F6C3d7BdA44A05dcf1437C44372",
+          "platform": {
+            "id": 39,
+            "name": "Conflux Network",
+            "slug": "conflux-network"
+          }
+        },
+        {
+          "tokenAddress": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+          "platform": {
+            "id": 96,
+            "name": "zkSync Era",
+            "slug": "zksync-era"
+          }
+        },
+        {
+          "tokenAddress": "0xe2aa35C2039Bd0Ff196A6Ef99523CC0D3972ae3e",
+          "platform": {
+            "id": 198,
+            "name": "SXnetwork",
+            "slug": "sxnetwork"
+          }
+        },
+        {
+          "tokenAddress": "e4b8164dccf3489f66124cace1570dc35b58fc90",
+          "platform": {
+            "id": 209,
+            "name": "Hydra",
+            "slug": "hydra"
+          }
+        },
+        {
+          "tokenAddress": "ibc/4A1C18CA7F50544760CF306189B810CE4C1CB156C7FC870143D401FE7280E591",
+          "platform": {
+            "id": 223,
+            "name": "Stargaze",
+            "slug": "stargaze"
+          }
+        },
+        {
+          "tokenAddress": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
+          "platform": {
+            "id": 8,
+            "name": "Cosmos",
+            "slug": "cosmos"
+          }
+        },
+        {
+          "tokenAddress": "USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN",
+          "platform": {
+            "id": 66,
+            "name": "Stellar",
+            "slug": "stellar"
+          }
+        },
+        {
+          "tokenAddress": "1337",
+          "platform": {
+            "id": 54,
+            "name": "Polkadot",
+            "slug": "polkadot"
+          }
+        },
+        {
+          "tokenAddress": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+          "platform": {
+            "id": 148,
+            "name": "Canto",
+            "slug": "canto"
+          }
+        },
+        {
+          "tokenAddress": "0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8",
+          "platform": {
+            "id": 106,
+            "name": "Starknet",
+            "slug": "starknet"
+          }
+        },
+        {
+          "tokenAddress": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+          "platform": {
+            "id": 98,
+            "name": "Base",
+            "slug": "base"
+          }
+        },
+        {
+          "tokenAddress": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+          "platform": {
+            "id": 103,
+            "name": "Mantle",
+            "slug": "mantle"
+          }
+        },
+        {
+          "tokenAddress": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+          "platform": {
+            "id": 168,
+            "name": "WEMIX3.0",
+            "slug": "wemix-3-0"
+          }
+        },
+        {
+          "tokenAddress": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+          "platform": {
+            "id": 108,
+            "name": "Scroll",
+            "slug": "scroll"
+          }
+        },
+        {
+          "tokenAddress": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+          "platform": {
+            "id": 143,
+            "name": "Manta",
+            "slug": "manta"
+          }
+        },
+        {
+          "tokenAddress": "0.0.456858",
+          "platform": {
+            "id": 94,
+            "name": "Hedera",
+            "slug": "hedera"
+          }
+        },
+        {
+          "tokenAddress": "0xFFD7510ca0a3279c7a5F50018A26c21d5bc1DBcF",
+          "platform": {
+            "id": 107,
+            "name": "Energi",
+            "slug": "energi"
+          }
+        },
+        {
+          "tokenAddress": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+          "platform": {
+            "id": 230,
+            "name": "Shiden",
+            "slug": "shiden"
+          }
+        },
+        {
+          "tokenAddress": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+          "platform": {
+            "id": 6,
+            "name": "TRON",
+            "slug": "tron"
+          }
+        },
+        {
+          "tokenAddress": "A.b19436aae4d94622.FiatToken",
+          "platform": {
+            "id": 68,
+            "name": "Flow",
+            "slug": "flow"
+          }
+        },
+        {
+          "tokenAddress": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+          "platform": {
+            "id": 141,
+            "name": "Osmosis",
+            "slug": "osmosis"
+          }
+        },
+        {
+          "tokenAddress": "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1",
+          "platform": {
+            "id": 29,
+            "name": "Near Protocol",
+            "slug": "near-protocol"
+          }
+        },
+        {
+          "tokenAddress": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
+          "platform": {
+            "id": 250,
+            "name": "dYdX",
+            "slug": "dydx"
+          }
+        },
+        {
+          "tokenAddress": "0x640952e7984f2ecedead8fd97aa618ab1210a21c",
+          "platform": {
+            "id": 171,
+            "name": "Bifrost Network",
+            "slug": "bifrost-network"
+          }
+        },
+        {
+          "tokenAddress": "0xE1aB220E37AC55A4E2dD5Ba148298A9c09fBD716",
+          "platform": {
+            "id": 183,
+            "name": "Oasys",
+            "slug": "oasys"
+          }
+        },
+        {
+          "tokenAddress": "0x540d90635a0C10CdD4D27fc8edCbf88c18DfB1eD",
+          "platform": {
+            "id": 116,
+            "name": "Omax",
+            "slug": "omax"
+          }
+        },
+        {
+          "tokenAddress": "0x00f0d8595797943c12605cd59bc0d9f63d750ccf",
+          "platform": {
+            "id": 119,
+            "name": "Cube",
+            "slug": "cube"
+          }
+        },
+        {
+          "tokenAddress": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+          "platform": {
+            "id": 55,
+            "name": "Telos",
+            "slug": "telos"
+          }
+        },
+        {
+          "tokenAddress": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "USDC-c76f1f",
+          "platform": {
+            "id": 16,
+            "name": "MultiversX",
+            "slug": "elrond-gold"
+          }
+        },
+        {
+          "tokenAddress": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
+          "platform": {
+            "id": 48,
+            "name": "Viction (TomoChain)",
+            "slug": "tomochain"
+          }
+        },
+        {
+          "tokenAddress": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+          "platform": {
+            "id": 78,
+            "name": "Gnosis Chain",
+            "slug": "xdaistable"
+          }
+        },
+        {
+          "tokenAddress": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+          "platform": {
+            "id": 31,
+            "name": "Aurora",
+            "slug": "aurora-evm"
+          }
+        },
+        {
+          "tokenAddress": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
+          "platform": {
+            "id": 90,
+            "name": "Astar",
+            "slug": "astar"
+          }
+        },
+        {
+          "tokenAddress": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+          "platform": {
+            "id": 85,
+            "name": "Oasis Network",
+            "slug": "oasis-network"
+          }
+        },
+        {
+          "tokenAddress": "31566704",
+          "platform": {
+            "id": 57,
+            "name": "Algorand",
+            "slug": "algorand"
+          }
+        },
+        {
+          "tokenAddress": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+          "platform": {
+            "id": 17,
+            "name": "Metis Andromeda",
+            "slug": "metisdao"
+          }
+        },
+        {
+          "tokenAddress": "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5",
+          "platform": {
+            "id": 47,
+            "name": "Fuse Network",
+            "slug": "fuse-network"
+          }
+        },
+        {
+          "tokenAddress": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
+          "platform": {
+            "id": 45,
+            "name": "OKC",
+            "slug": "okexchain"
+          }
+        },
+        {
+          "tokenAddress": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
+          "platform": {
+            "id": 83,
+            "name": "Cardano",
+            "slug": "cardano"
+          }
+        },
+        {
+          "tokenAddress": "0x52a9cea01c4cbdd669883e41758b8eb8e8e2b34b",
+          "platform": {
+            "id": 44,
+            "name": "Wanchain",
+            "slug": "wanchain"
+          }
+        },
+        {
+          "tokenAddress": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
+          "platform": {
+            "id": 34,
+            "name": "Ronin",
+            "slug": "ronin"
+          }
+        },
+        {
+          "tokenAddress": "0x985458e523db3d53125813ed68c274899e9dfab4",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
+          "platform": {
+            "id": 71,
+            "name": "KCC",
+            "slug": "kucoin-shares"
+          }
+        },
+        {
+          "tokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+          "platform": {
+            "id": 91,
+            "name": "Aptos",
+            "slug": "aptos"
+          }
+        },
+        {
+          "tokenAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "secret1h6z05y90gwm4sqxzhz4pkyp36cna9xtp7q0urv",
+          "platform": {
+            "id": 63,
+            "name": "Secret Network",
+            "slug": "secret"
+          }
+        },
+        {
+          "tokenAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        },
+        {
+          "tokenAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+          "platform": {
+            "id": 7,
+            "name": "Avalanche C-Chain",
+            "slug": "avalanche"
+          }
+        },
+        {
+          "tokenAddress": "io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh",
+          "platform": {
+            "id": 43,
+            "name": "IoTeX",
+            "slug": "iotex"
+          }
+        },
+        {
+          "tokenAddress": "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
+          "platform": {
+            "id": 13,
+            "name": "Celo",
+            "slug": "celo"
+          }
+        },
+        {
+          "tokenAddress": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+          "platform": {
+            "id": 75,
+            "name": "Cronos",
+            "slug": "crypto-com-cro"
+          }
+        },
+        {
+          "tokenAddress": "0xe2c120f188ebd5389f71cf4d9c16d05b62a58993",
+          "platform": {
+            "id": 33,
+            "name": "Velas",
+            "slug": "velas"
+          }
+        },
+        {
+          "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf",
+          "platform": {
+            "id": 10,
+            "name": "Fantom",
+            "slug": "fantom"
+          }
+        },
+        {
+          "tokenAddress": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        },
+        {
+          "tokenAddress": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+          "platform": {
+            "id": 52,
+            "name": "Moonbeam",
+            "slug": "glimmer"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171882,
+      "rank": 7,
+      "slug": "lido-staked-ether",
+      "name": "Lido Staked Ether",
+      "symbol": "stETH",
+      "type": "token",
+      "volume24hBase": 26574.4574,
+      "circulatingSupply": 9326921,
+      "totalSupply": 9326921,
+      "values": {
+        "USD": {
+          "price": 3140.13895412727,
+          "volume24h": 83447488,
+          "high24h": 3191.47861082448,
+          "low24h": 3122.35319520163,
+          "marketCap": 29287827954.1677,
+          "percentChange24h": -0.2217,
+          "percentChange7d": 0.4471,
+          "percentChange30d": -6.1875,
+          "percentChange3m": 35.9249,
+          "percentChange6m": 78.124
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "rank": 8,
+      "slug": "ripple",
+      "name": "XRP",
+      "symbol": "XRP",
+      "category": "Currency",
+      "type": "coin",
+      "volume24hBase": 947736062.2623,
+      "circulatingSupply": 55129144019,
+      "totalSupply": 99987674482,
+      "maxSupply": 100000000000,
+      "values": {
+        "USD": {
+          "price": 0.528893303426,
+          "volume24h": 501251256,
+          "high24h": 0.539618606474,
+          "low24h": 0.524457962535,
+          "marketCap": 29157435095.2566,
+          "percentChange24h": -0.1743,
+          "percentChange7d": 5.147,
+          "percentChange30d": -15.2941,
+          "percentChange3m": -0.0642,
+          "percentChange6m": -3.074
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f",
+          "platform": {
+            "id": 19,
+            "name": "Klaytn ",
+            "slug": "klaytn"
+          }
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "rank": 9,
+      "slug": "dogecoin",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "category": "Meme",
+      "type": "coin",
+      "volume24hBase": 5702081724.8402,
+      "circulatingSupply": 143962476384,
+      "totalSupply": 143983876384,
+      "values": {
+        "USD": {
+          "price": 0.158512772268,
+          "volume24h": 903852781,
+          "high24h": 0.166222014863,
+          "low24h": 0.15697694653,
+          "marketCap": 22819891234.1943,
+          "percentChange24h": -2.3994,
+          "percentChange7d": -0.7651,
+          "percentChange30d": -3.6788,
+          "percentChange3m": 96.6629,
+          "percentChange6m": 136.6673
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 160758,
+      "rank": 10,
+      "slug": "toncoin",
+      "name": "Toncoin",
+      "symbol": "TON",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 23427403.6677,
+      "circulatingSupply": 3471235047,
+      "totalSupply": 5105553581,
+      "values": {
+        "USD": {
+          "price": 6.155314808633,
+          "volume24h": 144203044,
+          "high24h": 6.293079431822,
+          "low24h": 6.016533721377,
+          "marketCap": 21366544489.045,
+          "percentChange24h": -0.8912,
+          "percentChange7d": -10.3933,
+          "percentChange30d": 37.0498,
+          "percentChange3m": 183.3469,
+          "percentChange6m": 183.158
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "rank": 11,
+      "slug": "cardano",
+      "name": "Cardano",
+      "symbol": "ADA",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 425517886.5175,
+      "circulatingSupply": 35301704968,
+      "totalSupply": 45000000000,
+      "maxSupply": 45000000000,
+      "values": {
+        "USD": {
+          "price": 0.499200854142,
+          "volume24h": 212418892,
+          "high24h": 0.514625862758,
+          "low24h": 0.491375098023,
+          "marketCap": 17622641272.6945,
+          "percentChange24h": -1.8754,
+          "percentChange7d": 7.6342,
+          "percentChange30d": -20.5288,
+          "percentChange3m": 4.2958,
+          "percentChange6m": 78.6621
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xae83571000af4499798d1e3b0fa0070eb3a3e3f9",
+          "platform": {
+            "id": 83,
+            "name": "Cardano",
+            "slug": "cardano"
+          }
+        },
+        {
+          "tokenAddress": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x0e517979c2c1c1522ddb0c73905e0d39b3f990c0",
+          "platform": {
+            "id": 75,
+            "name": "Cronos",
+            "slug": "crypto-com-cro"
+          }
+        },
+        {
+          "tokenAddress": "0x3611fbfb06ffbcef9afb210f6ace86742e6c14a4",
+          "platform": {
+            "id": 33,
+            "name": "Velas",
+            "slug": "velas"
+          }
+        }
+      ]
+    },
+    {
+      "id": 21369,
+      "rank": 12,
+      "slug": "shiba-inu",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "category": "Meme",
+      "type": "token",
+      "volume24hBase": 27140904450095.3,
+      "circulatingSupply": 589263416459699,
+      "totalSupply": 999982361763870,
+      "values": {
+        "USD": {
+          "price": 0.000026871694,
+          "volume24h": 729322079,
+          "high24h": 0.000028468564,
+          "low24h": 0.000026065397,
+          "marketCap": 15834506212.4996,
+          "percentChange24h": -1.6782,
+          "percentChange7d": 19.6701,
+          "percentChange30d": -3.0459,
+          "percentChange3m": 201.8283,
+          "percentChange6m": 259.5349
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x76A878AdeA36c8Eb640e3022003c6A67ab39AD7B",
+          "platform": {
+            "id": 196,
+            "name": "ThunderCore",
+            "slug": "thundercore"
+          }
+        },
+        {
+          "tokenAddress": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 21076,
+      "rank": 13,
+      "slug": "avalanche",
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 8073947.5808,
+      "circulatingSupply": 378001277,
+      "totalSupply": 436690699,
+      "maxSupply": 720000000,
+      "values": {
+        "USD": {
+          "price": 37.152268335363,
+          "volume24h": 299965467,
+          "high24h": 38.718749782254,
+          "low24h": 36.667381908911,
+          "marketCap": 14043604874.2139,
+          "percentChange24h": -2.4385,
+          "percentChange7d": 1.5868,
+          "percentChange30d": -31.848,
+          "percentChange3m": 25.9126,
+          "percentChange6m": 252.0155
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+          "platform": {
+            "id": 11,
+            "name": "Moonriver",
+            "slug": "moonriver"
+          }
+        },
+        {
+          "tokenAddress": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+          "platform": {
+            "id": 83,
+            "name": "Cardano",
+            "slug": "cardano"
+          }
+        },
+        {
+          "tokenAddress": "0x6a5279e99ca7786fb13f827fc1fb4f61684933d6",
+          "platform": {
+            "id": 96,
+            "name": "zkSync Era",
+            "slug": "zksync-era"
+          }
+        },
+        {
+          "tokenAddress": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xcd8fe44a29db9159db36f96570d7a4d91986f528",
+          "platform": {
+            "id": 19,
+            "name": "Klaytn ",
+            "slug": "klaytn"
+          }
+        },
+        {
+          "tokenAddress": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        },
+        {
+          "tokenAddress": "0x4792c1ecb969b036eb51330c63bd27899a13d84e",
+          "platform": {
+            "id": 52,
+            "name": "Moonbeam",
+            "slug": "glimmer"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1883,
+      "rank": 14,
+      "slug": "wrapped-bitcoin",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "type": "token",
+      "volume24hBase": 1750.647,
+      "circulatingSupply": 155233,
+      "totalSupply": 155233,
+      "maxSupply": 163006,
+      "values": {
+        "USD": {
+          "price": 64795.5158413878,
+          "volume24h": 113434075,
+          "high24h": 65569.478402707,
+          "low24h": 64512.9017744501,
+          "marketCap": 10058402310.6062,
+          "percentChange24h": -0.3737,
+          "percentChange7d": 0.0257,
+          "percentChange30d": 1.7657,
+          "percentChange3m": 64.1028,
+          "percentChange6m": 96.5699
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2",
+          "platform": {
+            "id": 103,
+            "name": "Mantle",
+            "slug": "mantle"
+          }
+        },
+        {
+          "tokenAddress": "0xb17d901469b9208b17d916112988a3fed19b5ca1",
+          "platform": {
+            "id": 97,
+            "name": "PulseChain",
+            "slug": "pulsechain"
+          }
+        },
+        {
+          "tokenAddress": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+          "platform": {
+            "id": 102,
+            "name": "Polygon zkEVM",
+            "slug": "polygon-zkevm"
+          }
+        },
+        {
+          "tokenAddress": "zil1wha8mzaxhm22dpm5cav2tepuldnr8kwkvmqtjq",
+          "platform": {
+            "id": 76,
+            "name": "Zilliqa",
+            "slug": "zilliqa"
+          }
+        },
+        {
+          "tokenAddress": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+          "platform": {
+            "id": 55,
+            "name": "Telos",
+            "slug": "telos"
+          }
+        },
+        {
+          "tokenAddress": "0x78F811A431D248c1EDcF6d95ec8551879B2897C3",
+          "platform": {
+            "id": 11,
+            "name": "Moonriver",
+            "slug": "moonriver"
+          }
+        },
+        {
+          "tokenAddress": "0xfa93c12cd345c658bc4644d1d4e1b9615952258c",
+          "platform": {
+            "id": 71,
+            "name": "KCC",
+            "slug": "kucoin-shares"
+          }
+        },
+        {
+          "tokenAddress": "2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near",
+          "platform": {
+            "id": 29,
+            "name": "Near Protocol",
+            "slug": "near-protocol"
+          }
+        },
+        {
+          "tokenAddress": "0x1f545487c62e5acfea45dcadd9c627361d1616d8",
+          "platform": {
+            "id": 39,
+            "name": "Conflux Network",
+            "slug": "conflux-network"
+          }
+        },
+        {
+          "tokenAddress": "8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS",
+          "platform": {
+            "id": 69,
+            "name": "Waves",
+            "slug": "waves"
+          }
+        },
+        {
+          "tokenAddress": "EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5",
+          "platform": {
+            "id": 95,
+            "name": "TON",
+            "slug": "ton"
+          }
+        },
+        {
+          "tokenAddress": "0x03fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac",
+          "platform": {
+            "id": 106,
+            "name": "Starknet",
+            "slug": "starknet"
+          }
+        },
+        {
+          "tokenAddress": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+          "platform": {
+            "id": 108,
+            "name": "Scroll",
+            "slug": "scroll"
+          }
+        },
+        {
+          "tokenAddress": "0x3fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac",
+          "platform": {
+            "id": 106,
+            "name": "Starknet",
+            "slug": "starknet"
+          }
+        },
+        {
+          "tokenAddress": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
+          "platform": {
+            "id": 220,
+            "name": "Merlin",
+            "slug": "merlin"
+          }
+        },
+        {
+          "tokenAddress": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
+          "platform": {
+            "id": 96,
+            "name": "zkSync Era",
+            "slug": "zksync-era"
+          }
+        },
+        {
+          "tokenAddress": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
+          "platform": {
+            "id": 99,
+            "name": "Sui",
+            "slug": "sui"
+          }
+        },
+        {
+          "tokenAddress": "0x503b2ddc059b81788fd1239561596614b27faade",
+          "platform": {
+            "id": 48,
+            "name": "Viction (TomoChain)",
+            "slug": "tomochain"
+          }
+        },
+        {
+          "tokenAddress": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
+          "platform": {
+            "id": 78,
+            "name": "Gnosis Chain",
+            "slug": "xdaistable"
+          }
+        },
+        {
+          "tokenAddress": "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf",
+          "platform": {
+            "id": 93,
+            "name": "Everscale",
+            "slug": "everscale"
+          }
+        },
+        {
+          "tokenAddress": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        },
+        {
+          "tokenAddress": "io1c7unwg8h8vph89xwqru4f7zfa4yy5002wxvlrm",
+          "platform": {
+            "id": 43,
+            "name": "IoTeX",
+            "slug": "iotex"
+          }
+        },
+        {
+          "tokenAddress": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
+          "platform": {
+            "id": 31,
+            "name": "Aurora",
+            "slug": "aurora-evm"
+          }
+        },
+        {
+          "tokenAddress": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+          "platform": {
+            "id": 17,
+            "name": "Metis Andromeda",
+            "slug": "metisdao"
+          }
+        },
+        {
+          "tokenAddress": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
+          "platform": {
+            "id": 7,
+            "name": "Avalanche C-Chain",
+            "slug": "avalanche"
+          }
+        },
+        {
+          "tokenAddress": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+          "platform": {
+            "id": 75,
+            "name": "Cronos",
+            "slug": "crypto-com-cro"
+          }
+        },
+        {
+          "tokenAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0x313dbD8e65C6499dE939e5317cA97Ccc6eD4c621",
+          "platform": {
+            "id": 33,
+            "name": "Velas",
+            "slug": "velas"
+          }
+        },
+        {
+          "tokenAddress": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        },
+        {
+          "tokenAddress": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
+          "platform": {
+            "id": 52,
+            "name": "Moonbeam",
+            "slug": "glimmer"
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "rank": 15,
+      "slug": "bitcoin-cash",
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "category": "Currency",
+      "type": "coin",
+      "volume24hBase": 291851.0324,
+      "circulatingSupply": 19695125,
+      "totalSupply": 21000000,
+      "maxSupply": 21000000,
+      "values": {
+        "USD": {
+          "price": 505.686729814496,
+          "volume24h": 147585194,
+          "high24h": 523.417706314806,
+          "low24h": 501.05246593572,
+          "marketCap": 9959563354.53773,
+          "percentChange24h": -1.8975,
+          "percentChange7d": -4.3559,
+          "percentChange30d": 13.8836,
+          "percentChange3m": 115.0692,
+          "percentChange6m": 94.3608
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x0000000000000000000000000000000000002711",
+          "platform": {
+            "id": 188,
+            "name": "smartBCH",
+            "slug": "smartbch"
+          }
+        },
+        {
+          "tokenAddress": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
+          "platform": {
+            "id": 14,
+            "name": "HECO Chain",
+            "slug": "huobi-token"
+          }
+        },
+        {
+          "tokenAddress": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "rank": 16,
+      "slug": "tron",
+      "name": "TRON",
+      "symbol": "TRX",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 1011734212.8419,
+      "circulatingSupply": 87594239095,
+      "totalSupply": 87594240956,
+      "values": {
+        "USD": {
+          "price": 0.111153230263,
+          "volume24h": 112457525,
+          "high24h": 0.112048994979,
+          "low24h": 0.111022363496,
+          "marketCap": 9736382627.83881,
+          "percentChange24h": -0.596,
+          "percentChange7d": -1.9049,
+          "percentChange30d": -7.0123,
+          "percentChange3m": 1.5771,
+          "percentChange6m": 20.6963
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 22085,
+      "rank": 17,
+      "slug": "polkadot",
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 13767065.7542,
+      "circulatingSupply": 1355127621,
+      "totalSupply": 1436077970,
+      "values": {
+        "USD": {
+          "price": 7.166873079491,
+          "volume24h": 98666812,
+          "high24h": 7.303533528193,
+          "low24h": 7.018663264216,
+          "marketCap": 9712027666.21958,
+          "percentChange24h": -0.8747,
+          "percentChange7d": 6.0552,
+          "percentChange30d": -21.2999,
+          "percentChange3m": 12.936,
+          "percentChange6m": 65.4947
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+          "platform": {
+            "id": 14,
+            "name": "HECO Chain",
+            "slug": "huobi-token"
+          }
+        },
+        {
+          "tokenAddress": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "rank": 18,
+      "slug": "chainlink",
+      "name": "ChainLink",
+      "symbol": "LINK",
+      "category": "Blockchain Infrastructure",
+      "type": "token",
+      "volume24hBase": 8783209.076,
+      "circulatingSupply": 587099971,
+      "totalSupply": 1000000000,
+      "maxSupply": 1000000000,
+      "values": {
+        "USD": {
+          "price": 15.3707520606,
+          "volume24h": 135004529,
+          "high24h": 15.3707520606,
+          "low24h": 14.623045586633,
+          "marketCap": 9024168089.02645,
+          "percentChange24h": 2.8085,
+          "percentChange7d": 10.477,
+          "percentChange30d": -16.5523,
+          "percentChange3m": 5.4571,
+          "percentChange6m": 45.9974
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.331Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x68Ca48cA2626c415A89756471D4ADe2CC9034008",
+          "platform": {
+            "id": 107,
+            "name": "Energi",
+            "slug": "energi"
+          }
+        },
+        {
+          "tokenAddress": "514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near",
+          "platform": {
+            "id": 29,
+            "name": "Near Protocol",
+            "slug": "near-protocol"
+          }
+        },
+        {
+          "tokenAddress": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
+          "platform": {
+            "id": 78,
+            "name": "Gnosis Chain",
+            "slug": "xdaistable"
+          }
+        },
+        {
+          "tokenAddress": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
+          "platform": {
+            "id": 8,
+            "name": "Cosmos",
+            "slug": "cosmos"
+          }
+        },
+        {
+          "tokenAddress": "0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0x218532a12a389a4a92fC0C5Fb22901D1c19198aA",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0x5947BB275c521040051D82396192181b413227A3",
+          "platform": {
+            "id": 7,
+            "name": "Avalanche C-Chain",
+            "slug": "avalanche"
+          }
+        },
+        {
+          "tokenAddress": "0x8b12Ac23BFe11cAb03a634C1F117D64a7f2cFD3e",
+          "platform": {
+            "id": 11,
+            "name": "Moonriver",
+            "slug": "moonriver"
+          }
+        },
+        {
+          "tokenAddress": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "0x9e004545c59d359f6b7bfb06a26390b087717b42",
+          "platform": {
+            "id": 14,
+            "name": "HECO Chain",
+            "slug": "huobi-token"
+          }
+        },
+        {
+          "tokenAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+          "platform": {
+            "id": 10,
+            "name": "Fantom",
+            "slug": "fantom"
+          }
+        },
+        {
+          "tokenAddress": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        },
+        {
+          "tokenAddress": "0x012414A392F9FA442a3109f1320c439C45518aC3",
+          "platform": {
+            "id": 52,
+            "name": "Moonbeam",
+            "slug": "glimmer"
+          }
+        }
+      ]
+    },
+    {
+      "id": 90530,
+      "rank": 19,
+      "slug": "internet-computer",
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 8643789.2339,
+      "circulatingSupply": 462998185,
+      "totalSupply": 517870141,
+      "values": {
+        "USD": {
+          "price": 15.009172517659,
+          "volume24h": 129736123,
+          "high24h": 16.340759383292,
+          "low24h": 14.936711400402,
+          "marketCap": 6949219634.028,
+          "percentChange24h": -7.5102,
+          "percentChange7d": 17.6114,
+          "percentChange30d": 12.7676,
+          "percentChange3m": 43.4409,
+          "percentChange6m": 327.5368
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.332Z",
+      "tokens": []
+    },
+    {
+      "id": 21422,
+      "rank": 20,
+      "slug": "near-protocol",
+      "name": "Near Protocol",
+      "symbol": "NEAR",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 34470269.1861,
+      "circulatingSupply": 1064652368,
+      "totalSupply": 1183246171,
+      "values": {
+        "USD": {
+          "price": 6.435320416899,
+          "volume24h": 221827227,
+          "high24h": 6.549303021414,
+          "low24h": 6.118615152133,
+          "marketCap": 6851379120.69027,
+          "percentChange24h": 1.939,
+          "percentChange7d": 16.1571,
+          "percentChange30d": -3.5504,
+          "percentChange3m": 143.308,
+          "percentChange6m": 486.223
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.332Z",
+      "tokens": []
+    },
+    {
+      "id": 7159,
+      "rank": 21,
+      "slug": "matic-network",
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 221801048.7516,
+      "circulatingSupply": 9282943566,
+      "totalSupply": 10000000000,
+      "maxSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 0.714576526212,
+          "volume24h": 158493822,
+          "high24h": 0.746373027669,
+          "low24h": 0.707357838577,
+          "marketCap": 6633373566.41432,
+          "percentChange24h": -3.3039,
+          "percentChange7d": 1.2466,
+          "percentChange30d": -27.7237,
+          "percentChange3m": -4.3274,
+          "percentChange6m": 12.5866
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.332Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
+          "platform": {
+            "id": 11,
+            "name": "Moonriver",
+            "slug": "moonriver"
+          }
+        },
+        {
+          "tokenAddress": "0x301259f392b551ca8c592c9f676fcd2f9a0a84c5",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0xa2036f0538221a77A3937F1379699f44945018d0",
+          "platform": {
+            "id": 102,
+            "name": "Polygon zkEVM",
+            "slug": "polygon-zkevm"
+          }
+        },
+        {
+          "tokenAddress": "0x009134d5c7b7fda8863985531f456f89bef5fbd76684a8acdb737b3e451d0877",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0xD17a41Cd199edF1093A9Be4404EaDe52Ec19698e",
+          "platform": {
+            "id": 184,
+            "name": "DFK",
+            "slug": "dfk"
+          }
+        },
+        {
+          "tokenAddress": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0x0000000000000000000000000000000000001010",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        },
+        {
+          "tokenAddress": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+          "platform": {
+            "id": 52,
+            "name": "Moonbeam",
+            "slug": "glimmer"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8773,
+      "rank": 22,
+      "slug": "kava",
+      "name": "Kava",
+      "symbol": "KAVA",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 19632135.1694,
+      "circulatingSupply": 8880780407,
+      "totalSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 0.711953203163,
+          "volume24h": 13977161,
+          "high24h": 0.728929271877,
+          "low24h": 0.702209403562,
+          "marketCap": 6322700057.35086,
+          "percentChange24h": -2,
+          "percentChange7d": 7.1108,
+          "percentChange30d": -22.6952,
+          "percentChange3m": 5.9445,
+          "percentChange6m": 15.4321
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.332Z",
+      "tokens": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "rank": 23,
+      "slug": "litecoin",
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "category": "Currency",
+      "type": "coin",
+      "volume24hBase": 1868216.8356,
+      "circulatingSupply": 74448752,
+      "totalSupply": 84000000,
+      "maxSupply": 84000000,
+      "values": {
+        "USD": {
+          "price": 84.333408763477,
+          "volume24h": 157553094,
+          "high24h": 85.691870820174,
+          "low24h": 83.133633723356,
+          "marketCap": 6278517034.34673,
+          "percentChange24h": -0.4691,
+          "percentChange7d": 6.7554,
+          "percentChange30d": -0.3239,
+          "percentChange3m": 25.3868,
+          "percentChange6m": 22.3546
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.332Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+          "platform": {
+            "id": 14,
+            "name": "HECO Chain",
+            "slug": "huobi-token"
+          }
+        },
+        {
+          "tokenAddress": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7478,
+      "rank": 24,
+      "slug": "leobitfinex",
+      "name": "UNUS SED LEO",
+      "symbol": "LEO",
+      "category": "CeFi",
+      "type": "token",
+      "volume24hBase": 135096.1295,
+      "circulatingSupply": 926571909,
+      "totalSupply": 985239504,
+      "values": {
+        "USD": {
+          "price": 5.743576989569,
+          "volume24h": 775935,
+          "high24h": 5.794096402752,
+          "low24h": 5.713415917513,
+          "marketCap": 5321837095.71342,
+          "percentChange24h": -0.0309,
+          "percentChange7d": -4.1663,
+          "percentChange30d": -5.187,
+          "percentChange3m": 42.8189,
+          "percentChange6m": 48.2337
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.332Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x009e199267a6a2c8ae075bb8d4c40ee8d05c1b769085ee59ce98e50c2b2d8756",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 19793,
+      "rank": 25,
+      "slug": "multicollateraldai",
+      "name": "Dai",
+      "symbol": "DAI",
+      "category": "Stablecoin",
+      "type": "token",
+      "volume24hBase": 57821786.7474,
+      "circulatingSupply": 5183226568,
+      "totalSupply": 5183226568,
+      "values": {
+        "USD": {
+          "price": 1.000138816561,
+          "volume24h": 57829813,
+          "high24h": 1.001891342313,
+          "low24h": 0.999749337465,
+          "marketCap": 5183946085.68705,
+          "percentChange24h": -0.0049,
+          "percentChange7d": 0.0067,
+          "percentChange30d": -0.0261,
+          "percentChange3m": 0.0153,
+          "percentChange6m": -0.001
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.332Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+          "platform": {
+            "id": 102,
+            "name": "Polygon zkEVM",
+            "slug": "polygon-zkevm"
+          }
+        },
+        {
+          "tokenAddress": "0x6cc8f0b5607e1f947e83667368881a1bccc3f1c4",
+          "platform": {
+            "id": 212,
+            "name": "Rangers",
+            "slug": "rangers"
+          }
+        },
+        {
+          "tokenAddress": "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8",
+          "platform": {
+            "id": 149,
+            "name": "Palm",
+            "slug": "palm"
+          }
+        },
+        {
+          "tokenAddress": "0xda114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3",
+          "platform": {
+            "id": 106,
+            "name": "Starknet",
+            "slug": "starknet"
+          }
+        },
+        {
+          "tokenAddress": "0x0ee5893f434017d8881750101Ea2F7c49c0eb503",
+          "platform": {
+            "id": 107,
+            "name": "Energi",
+            "slug": "energi"
+          }
+        },
+        {
+          "tokenAddress": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
+          "platform": {
+            "id": 108,
+            "name": "Scroll",
+            "slug": "scroll"
+          }
+        },
+        {
+          "tokenAddress": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+          "platform": {
+            "id": 89,
+            "name": "Arbitrum Nova",
+            "slug": "arbitrum-nova"
+          }
+        },
+        {
+          "tokenAddress": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+          "platform": {
+            "id": 98,
+            "name": "Base",
+            "slug": "base"
+          }
+        },
+        {
+          "tokenAddress": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
+          "platform": {
+            "id": 96,
+            "name": "zkSync Era",
+            "slug": "zksync-era"
+          }
+        },
+        {
+          "tokenAddress": "0x0200060000000000000000000000000000000000000000000000000000000000",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0xe3520349f477a5f6eb06107066048508498a291b",
+          "platform": {
+            "id": 31,
+            "name": "Aurora",
+            "slug": "aurora-evm"
+          }
+        },
+        {
+          "tokenAddress": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        },
+        {
+          "tokenAddress": "0x6de33698e9e9b787e09d3bd7771ef63557e148bb",
+          "platform": {
+            "id": 90,
+            "name": "Astar",
+            "slug": "astar"
+          }
+        },
+        {
+          "tokenAddress": "0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a",
+          "platform": {
+            "id": 17,
+            "name": "Metis Andromeda",
+            "slug": "metisdao"
+          }
+        },
+        {
+          "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+          "platform": {
+            "id": 11,
+            "name": "Moonriver",
+            "slug": "moonriver"
+          }
+        },
+        {
+          "tokenAddress": "0x44fA8E6f47987339850636F88629646662444217",
+          "platform": {
+            "id": 78,
+            "name": "Gnosis Chain",
+            "slug": "xdaistable"
+          }
+        },
+        {
+          "tokenAddress": "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95",
+          "platform": {
+            "id": 2,
+            "name": "Terra Classic",
+            "slug": "luna"
+          }
+        },
+        {
+          "tokenAddress": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+          "platform": {
+            "id": 7,
+            "name": "Avalanche C-Chain",
+            "slug": "avalanche"
+          }
+        },
+        {
+          "tokenAddress": "0xf2001b145b43032aaf5ee2884e456ccd805f677d",
+          "platform": {
+            "id": 75,
+            "name": "Cronos",
+            "slug": "crypto-com-cro"
+          }
+        },
+        {
+          "tokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        },
+        {
+          "tokenAddress": "0x765277eebeca2e31912c9946eae1021199b39c61",
+          "platform": {
+            "id": 52,
+            "name": "Moonbeam",
+            "slug": "glimmer"
+          }
+        }
+      ]
+    },
+    {
+      "id": 23857,
+      "rank": 26,
+      "slug": "uniswap",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 6202828.2767,
+      "circulatingSupply": 598187016,
+      "totalSupply": 1000000000,
+      "values": {
+        "USD": {
+          "price": 7.773180483651,
+          "volume24h": 48215703,
+          "high24h": 7.932046834804,
+          "low24h": 7.592203788046,
+          "marketCap": 4649815638.34463,
+          "percentChange24h": -0.7383,
+          "percentChange7d": 4.947,
+          "percentChange30d": -34.7502,
+          "percentChange3m": 28.8651,
+          "percentChange6m": 78.0796
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.332Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x665b3a802979ec24e076c80025bff33c18eb6007",
+          "platform": {
+            "id": 107,
+            "name": "Energi",
+            "slug": "energi"
+          }
+        },
+        {
+          "tokenAddress": "1f9840a85d5af5bf1d1762f925bdaddc4201f984.factory.bridge.near",
+          "platform": {
+            "id": 29,
+            "name": "Near Protocol",
+            "slug": "near-protocol"
+          }
+        },
+        {
+          "tokenAddress": "0x009be848df92a400da2f217256c88d1a9b1a0304f9b3e90991a67418e1d3b08c",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+          "platform": {
+            "id": 78,
+            "name": "Gnosis Chain",
+            "slug": "xdaistable"
+          }
+        },
+        {
+          "tokenAddress": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
+          "platform": {
+            "id": 14,
+            "name": "HECO Chain",
+            "slug": "huobi-token"
+          }
+        },
+        {
+          "tokenAddress": "0x90d81749da8867962c760414c1c25ec926e889b6",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+          "platform": {
+            "id": 7,
+            "name": "Avalanche C-Chain",
+            "slug": "avalanche"
+          }
+        },
+        {
+          "tokenAddress": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174670,
+      "rank": 27,
+      "slug": "aptos",
+      "name": "Aptos",
+      "symbol": "APT",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 9070322.4836,
+      "circulatingSupply": 425731353,
+      "totalSupply": 1092155262,
+      "values": {
+        "USD": {
+          "price": 9.927598206314,
+          "volume24h": 90046517,
+          "high24h": 10.264753863936,
+          "low24h": 9.719410393041,
+          "marketCap": 4226489816.41443,
+          "percentChange24h": -2.3308,
+          "percentChange7d": 5.9228,
+          "percentChange30d": -37.1319,
+          "percentChange3m": 23.5023,
+          "percentChange6m": 61.0072
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.333Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x1::aptos_coin::AptosCoin",
+          "platform": {
+            "id": 91,
+            "name": "Aptos",
+            "slug": "aptos"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4023,
+      "rank": 28,
+      "slug": "blockstack",
+      "name": "Stacks",
+      "symbol": "STX",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 27825745.48,
+      "circulatingSupply": 1453712636,
+      "totalSupply": 1818000000,
+      "maxSupply": 1818000000,
+      "values": {
+        "USD": {
+          "price": 2.881048108117,
+          "volume24h": 80167311,
+          "high24h": 2.93197070484,
+          "low24h": 2.807286301503,
+          "marketCap": 4188216039.69358,
+          "percentChange24h": 1.1975,
+          "percentChange7d": 5.0806,
+          "percentChange30d": -19.8636,
+          "percentChange3m": 115.1354,
+          "percentChange6m": 293.9546
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.333Z",
+      "tokens": []
+    },
+    {
+      "id": 182288,
+      "rank": 29,
+      "slug": "mantlexyz",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 46742274.4089,
+      "circulatingSupply": 3264441708,
+      "totalSupply": 6219316795,
+      "maxSupply": 6219316794,
+      "values": {
+        "USD": {
+          "price": 1.241557799606,
+          "volume24h": 58033235,
+          "high24h": 1.258155440333,
+          "low24h": 1.200216221867,
+          "marketCap": 4052993063.92653,
+          "percentChange24h": -1.0863,
+          "percentChange7d": 8.1872,
+          "percentChange30d": 54.4365,
+          "percentChange3m": 91.6136,
+          "percentChange6m": 227.1249
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.333Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+          "platform": {
+            "id": 103,
+            "name": "Mantle",
+            "slug": "mantle"
+          }
+        },
+        {
+          "tokenAddress": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "rank": 30,
+      "slug": "ethereum-classic",
+      "name": "Ethereum Classic",
+      "symbol": "ETC",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 2708434.2011,
+      "circulatingSupply": 146671596,
+      "totalSupply": 210700000,
+      "maxSupply": 210700000,
+      "values": {
+        "USD": {
+          "price": 27.549885067477,
+          "volume24h": 74617050,
+          "high24h": 28.267933245368,
+          "low24h": 27.153073063928,
+          "marketCap": 4040785612.46342,
+          "percentChange24h": -1.1897,
+          "percentChange7d": 4.5611,
+          "percentChange30d": -7.1539,
+          "percentChange3m": 19.2152,
+          "percentChange6m": 65.8795
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.333Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 185400,
+      "rank": 31,
+      "slug": "first-digital-usd",
+      "name": "First Digital USD",
+      "symbol": "FDUSD",
+      "category": "Stablecoin",
+      "type": "token",
+      "volume24hBase": 5782798054.4216,
+      "circulatingSupply": 3588766587,
+      "totalSupply": 3588766587,
+      "values": {
+        "USD": {
+          "price": 1.000126732347,
+          "volume24h": 5783530921,
+          "high24h": 1.000154341554,
+          "low24h": 0.999625516902,
+          "marketCap": 3589221399.81241,
+          "percentChange24h": 0.0187,
+          "percentChange7d": -0.1643,
+          "percentChange30d": 0.07,
+          "percentChange3m": -0.0394,
+          "percentChange6m": 0.0308
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.333Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 26233,
+      "rank": 32,
+      "slug": "filecoin",
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "category": "Blockchain Infrastructure",
+      "type": "coin",
+      "volume24hBase": 20446632.0012,
+      "circulatingSupply": 542046584,
+      "totalSupply": 1960570463,
+      "maxSupply": 1961267343,
+      "values": {
+        "USD": {
+          "price": 6.453160230004,
+          "volume24h": 131945392,
+          "high24h": 6.755027447844,
+          "low24h": 6.367495590004,
+          "marketCap": 3497913458.67832,
+          "percentChange24h": -2.6208,
+          "percentChange7d": 5.9396,
+          "percentChange30d": -26.8427,
+          "percentChange3m": 28.2439,
+          "percentChange6m": 67.5274
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.333Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+          "platform": {
+            "id": 14,
+            "name": "HECO Chain",
+            "slug": "huobi-token"
+          }
+        },
+        {
+          "tokenAddress": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7481,
+      "rank": 33,
+      "slug": "render-token",
+      "name": "Render",
+      "symbol": "RNDR",
+      "category": "Blockchain Service",
+      "type": "token",
+      "volume24hBase": 13684097.1043,
+      "circulatingSupply": 384472335,
+      "totalSupply": 532065944,
+      "maxSupply": 531024570,
+      "values": {
+        "USD": {
+          "price": 9.035899927475,
+          "volume24h": 123648132,
+          "high24h": 9.236265898288,
+          "low24h": 8.732679694872,
+          "marketCap": 3474053543.94264,
+          "percentChange24h": -0.4337,
+          "percentChange7d": 3.5653,
+          "percentChange30d": -15.1389,
+          "percentChange3m": 140.974,
+          "percentChange6m": 333.2087
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.333Z",
+      "tokens": [
+        {
+          "tokenAddress": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        },
+        {
+          "tokenAddress": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0x61299774020dA444Af134c82fa83E3810b309991",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5987,
+      "rank": 34,
+      "slug": "crypto-com-cro",
+      "name": "Cronos",
+      "symbol": "CRO",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 71185289.25,
+      "circulatingSupply": 26673321738,
+      "totalSupply": 30000000000,
+      "values": {
+        "USD": {
+          "price": 0.129766239356,
+          "volume24h": 9237447,
+          "high24h": 0.133385730915,
+          "low24h": 0.128288606211,
+          "marketCap": 3461296653.07291,
+          "percentChange24h": -1.4602,
+          "percentChange7d": -4.5564,
+          "percentChange30d": -5.095,
+          "percentChange3m": 66.3414,
+          "percentChange6m": 128.6443
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.333Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x2672b791d23879995aabdf51bc7d3df54bb4e266",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "platform": {
+            "id": 8,
+            "name": "Cosmos",
+            "slug": "cosmos"
+          }
+        },
+        {
+          "tokenAddress": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6834,
+      "rank": 35,
+      "slug": "cosmos",
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 6787082.9586,
+      "circulatingSupply": 390688370,
+      "totalSupply": 390930035,
+      "values": {
+        "USD": {
+          "price": 8.75969109586,
+          "volume24h": 59452750,
+          "high24h": 8.834945256183,
+          "low24h": 8.551471434056,
+          "marketCap": 3422309435.94506,
+          "percentChange24h": 1.1191,
+          "percentChange7d": 6.2045,
+          "percentChange30d": -24.2321,
+          "percentChange3m": -4.7587,
+          "percentChange6m": 24.9256
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.334Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x15932e26f5bd4923d46a2b205191c4b5d5f43fe3",
+          "platform": {
+            "id": 81,
+            "name": "Kava",
+            "slug": "kava"
+          }
+        },
+        {
+          "tokenAddress": "ibc/27394fb092d2eccd56123c74f36e4c1f926001ceada9ca97ea622b25f41e5eb2",
+          "platform": {
+            "id": 186,
+            "name": "Archway",
+            "slug": "archway"
+          }
+        },
+        {
+          "tokenAddress": "ibc-C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+          "platform": {
+            "id": 147,
+            "name": "Injective",
+            "slug": "injective"
+          }
+        },
+        {
+          "tokenAddress": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xb888d8dd1733d72681b30c00ee76bde93ae7aa93",
+          "platform": {
+            "id": 75,
+            "name": "Cronos",
+            "slug": "crypto-com-cro"
+          }
+        },
+        {
+          "tokenAddress": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "rank": 36,
+      "slug": "stellar",
+      "name": "Stellar",
+      "symbol": "XLM",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 303210583.6371,
+      "circulatingSupply": 28910604347,
+      "totalSupply": 50001786995,
+      "maxSupply": 50001787146,
+      "values": {
+        "USD": {
+          "price": 0.114683651566,
+          "volume24h": 34773296,
+          "high24h": 0.117295192162,
+          "low24h": 0.113747229214,
+          "marketCap": 3315573675.49383,
+          "percentChange24h": -1.3316,
+          "percentChange7d": 4.9689,
+          "percentChange30d": -12.3175,
+          "percentChange3m": 1.6667,
+          "percentChange6m": -0.8773
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.334Z",
+      "tokens": []
+    },
+    {
+      "id": 1862,
+      "rank": 37,
+      "slug": "okb",
+      "name": "OKB",
+      "symbol": "OKB",
+      "category": "CeFi",
+      "type": "token",
+      "volume24hBase": 117457.2887,
+      "circulatingSupply": 60000000,
+      "totalSupply": 235957685,
+      "maxSupply": 300000000,
+      "values": {
+        "USD": {
+          "price": 54.770603729011,
+          "volume24h": 6433206,
+          "high24h": 56.019036848287,
+          "low24h": 54.175663420209,
+          "marketCap": 3286236223.74066,
+          "percentChange24h": -1.3709,
+          "percentChange7d": 3.1909,
+          "percentChange30d": -6.6169,
+          "percentChange3m": 4.7261,
+          "percentChange6m": 21.7954
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.334Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
+          "platform": {
+            "id": 45,
+            "name": "OKC",
+            "slug": "okexchain"
+          }
+        },
+        {
+          "tokenAddress": "0x0080edc40a944d29562b2dea2de42ed27b9047d16eeea27c5bc1b2e02786abe9",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8491,
+      "rank": 38,
+      "slug": "hedera-hashgraph",
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 422584101.8801,
+      "circulatingSupply": 35741578541,
+      "totalSupply": 50000000000,
+      "maxSupply": 50000000000,
+      "values": {
+        "USD": {
+          "price": 0.089314113327,
+          "volume24h": 37742724,
+          "high24h": 0.091088619888,
+          "low24h": 0.087397943377,
+          "marketCap": 3192227396.29675,
+          "percentChange24h": 2.2209,
+          "percentChange7d": 8.513,
+          "percentChange30d": -17.3705,
+          "percentChange3m": 25.909,
+          "percentChange6m": 72.6233
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.334Z",
+      "tokens": []
+    },
+    {
+      "id": 165915,
+      "rank": 39,
+      "slug": "immutable-x",
+      "name": "Immutable",
+      "symbol": "IMX",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 10991108.8676,
+      "circulatingSupply": 1456815249,
+      "totalSupply": 2000000000,
+      "maxSupply": 2000000000,
+      "values": {
+        "USD": {
+          "price": 2.187862881822,
+          "volume24h": 24047039,
+          "high24h": 2.225802859079,
+          "low24h": 2.138136255123,
+          "marketCap": 3187312008.95937,
+          "percentChange24h": -0.9118,
+          "percentChange7d": 2.3276,
+          "percentChange30d": -24.1797,
+          "percentChange3m": 22.4129,
+          "percentChange6m": 244.3334
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.334Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175987,
+      "rank": 40,
+      "slug": "arbitrum",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 139785586.2334,
+      "circulatingSupply": 2653939384,
+      "totalSupply": 10000000000,
+      "maxSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 1.191831145348,
+          "volume24h": 166600815,
+          "high24h": 1.231588424925,
+          "low24h": 1.178824527586,
+          "marketCap": 3163047615.71689,
+          "percentChange24h": -1.6466,
+          "percentChange7d": 2.885,
+          "percentChange30d": -26.7819,
+          "percentChange3m": -29.3886,
+          "percentChange6m": 35.2528
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.334Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xf823c3cd3cebe0a1fa952ba88dc9eef8e0bf46ad",
+          "platform": {
+            "id": 89,
+            "name": "Arbitrum Nova",
+            "slug": "arbitrum-nova"
+          }
+        },
+        {
+          "tokenAddress": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179365,
+      "rank": 41,
+      "slug": "bittensor",
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "category": "Blockchain Service",
+      "type": "token",
+      "volume24hBase": 50019.7137,
+      "circulatingSupply": 6632604,
+      "totalSupply": 21000000,
+      "maxSupply": 21000000,
+      "values": {
+        "USD": {
+          "price": 469.07848018831,
+          "volume24h": 23463171,
+          "high24h": 486.777457126297,
+          "low24h": 460.256200275163,
+          "marketCap": 3111211804.01091,
+          "percentChange24h": -1.0793,
+          "percentChange7d": -17.7837,
+          "percentChange30d": -20.6997,
+          "percentChange3m": 87.776,
+          "percentChange6m": 813.6514
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.334Z",
+      "tokens": []
+    },
+    {
+      "id": 2208,
+      "rank": 42,
+      "slug": "vechainthor",
+      "name": "VeChain",
+      "symbol": "VET",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 971473041.9941,
+      "circulatingSupply": 72714516834,
+      "totalSupply": 85985041177,
+      "maxSupply": 86712634466,
+      "values": {
+        "USD": {
+          "price": 0.042628871218,
+          "volume24h": 41412799,
+          "high24h": 0.043542422958,
+          "low24h": 0.041797118738,
+          "marketCap": 3099737773.79568,
+          "percentChange24h": -0.0138,
+          "percentChange7d": -5.4581,
+          "percentChange30d": 3.3781,
+          "percentChange3m": 62.26,
+          "percentChange6m": 129.5746
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.334Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186938,
+      "rank": 43,
+      "slug": "dogwifcoin",
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "category": "Meme",
+      "type": "token",
+      "volume24hBase": 115791924.9085,
+      "circulatingSupply": 998926392,
+      "totalSupply": 998926392,
+      "maxSupply": 998926392,
+      "values": {
+        "USD": {
+          "price": 2.901067946939,
+          "volume24h": 335920241,
+          "high24h": 3.193625258227,
+          "low24h": 2.886690709325,
+          "marketCap": 2897953337.18262,
+          "percentChange24h": -3.9371,
+          "percentChange7d": 0.7883,
+          "percentChange30d": 29.6435,
+          "percentChange3m": 1140.8906,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.334Z",
+      "tokens": [
+        {
+          "tokenAddress": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "rank": 44,
+      "slug": "maker",
+      "name": "Maker",
+      "symbol": "MKR",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 18924.5839,
+      "circulatingSupply": 924717,
+      "totalSupply": 977631,
+      "maxSupply": 1005577,
+      "values": {
+        "USD": {
+          "price": 2974.31537563759,
+          "volume24h": 56287680,
+          "high24h": 3155.94475994819,
+          "low24h": 2972.13946845042,
+          "marketCap": 2750399991.21346,
+          "percentChange24h": -4.5114,
+          "percentChange7d": -3.4542,
+          "percentChange30d": -5.0948,
+          "percentChange3m": 54.3005,
+          "percentChange6m": 90.0398
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.335Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x050317d93f29d1ba5ff3eac3b8157fd4e345588d",
+          "platform": {
+            "id": 107,
+            "name": "Energi",
+            "slug": "energi"
+          }
+        },
+        {
+          "tokenAddress": "0x00ec184ef0b4bd955db05eea5a8489ae72888ab6e63682a15beca1cd39344c8f",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+          "platform": {
+            "id": 7,
+            "name": "Avalanche C-Chain",
+            "slug": "avalanche"
+          }
+        },
+        {
+          "tokenAddress": "0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 26187,
+      "rank": 45,
+      "slug": "the-graph",
+      "name": "The Graph",
+      "symbol": "GRT",
+      "category": "Blockchain Infrastructure",
+      "type": "token",
+      "volume24hBase": 200507083.8475,
+      "circulatingSupply": 9482506385,
+      "totalSupply": 10788004319,
+      "values": {
+        "USD": {
+          "price": 0.284109138077,
+          "volume24h": 56965894,
+          "high24h": 0.298497613682,
+          "low24h": 0.282459405582,
+          "marketCap": 2694066715.852,
+          "percentChange24h": -3.6053,
+          "percentChange7d": 8.9352,
+          "percentChange30d": -23.9747,
+          "percentChange3m": 90.1166,
+          "percentChange6m": 212.5119
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.335Z",
+      "tokens": [
+        {
+          "tokenAddress": "c944e90c64b2c07662a292be6244bdf05cda44a7.factory.bridge.near",
+          "platform": {
+            "id": 29,
+            "name": "Near Protocol",
+            "slug": "near-protocol"
+          }
+        },
+        {
+          "tokenAddress": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        },
+        {
+          "tokenAddress": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
+          "platform": {
+            "id": 7,
+            "name": "Avalanche C-Chain",
+            "slug": "avalanche"
+          }
+        },
+        {
+          "tokenAddress": "0x00d1fb79bbd1005a678fbf2de9256b3afe260e8eead49bb07bd3a566f9fe8355",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": 174899,
+      "rank": 46,
+      "slug": "kaspa",
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 284960651.1741,
+      "circulatingSupply": 23088387841,
+      "totalSupply": 23409084172,
+      "maxSupply": 28704026601,
+      "values": {
+        "USD": {
+          "price": 0.116111853384,
+          "volume24h": 33087309,
+          "high24h": 0.121867683879,
+          "low24h": 0.11496122341,
+          "marketCap": 2680835503.86712,
+          "percentChange24h": -3.5788,
+          "percentChange7d": -4.6148,
+          "percentChange30d": -19.9887,
+          "percentChange3m": 18.1287,
+          "percentChange6m": 125.9898
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.335Z",
+      "tokens": []
+    },
+    {
+      "id": 174889,
+      "rank": 47,
+      "slug": "optimism",
+      "name": "Optimism",
+      "symbol": "OP",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 53510208.4538,
+      "circulatingSupply": 1045379867,
+      "totalSupply": 4294967296,
+      "maxSupply": 4294967296,
+      "values": {
+        "USD": {
+          "price": 2.453363229645,
+          "volume24h": 131279977,
+          "high24h": 2.526826657367,
+          "low24h": 2.387141687423,
+          "marketCap": 2564696526.70898,
+          "percentChange24h": -1.4237,
+          "percentChange7d": 6.9709,
+          "percentChange30d": -28.6239,
+          "percentChange3m": -17.4214,
+          "percentChange6m": 81.0495
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.335Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x4200000000000000000000000000000000000042",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        }
+      ]
+    },
+    {
+      "id": 182292,
+      "rank": 48,
+      "slug": "pepe",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "category": "Meme",
+      "type": "token",
+      "volume24hBase": 106891982498797,
+      "circulatingSupply": 420690000000000,
+      "totalSupply": 420690000000000,
+      "maxSupply": 420690000000000,
+      "values": {
+        "USD": {
+          "price": 0.00000603722,
+          "volume24h": 645330414,
+          "high24h": 0.000006213792,
+          "low24h": 0.000005657022,
+          "marketCap": 2539798081.8,
+          "percentChange24h": 4.1901,
+          "percentChange7d": 13.7116,
+          "percentChange30d": -20.5984,
+          "percentChange3m": 473.6419,
+          "percentChange6m": 511.9559
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.335Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0x2e29eab368c30e692b9805084c0d3b07215d7762",
+          "platform": {
+            "id": 115,
+            "name": "Ultron",
+            "slug": "ultron"
+          }
+        },
+        {
+          "tokenAddress": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 26107,
+      "rank": 49,
+      "slug": "injective-protocol",
+      "name": "Injective",
+      "symbol": "INJ",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 2604674.4723,
+      "circulatingSupply": 90042222,
+      "totalSupply": 100000000,
+      "maxSupply": 100000000,
+      "values": {
+        "USD": {
+          "price": 28.155176620903,
+          "volume24h": 73335069,
+          "high24h": 29.554366831091,
+          "low24h": 27.937718991826,
+          "marketCap": 2535154663.74856,
+          "percentChange24h": -3.7314,
+          "percentChange7d": 12.1064,
+          "percentChange30d": -20.9366,
+          "percentChange3m": -16.9972,
+          "percentChange6m": 157.5649
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.335Z",
+      "tokens": [
+        {
+          "tokenAddress": "inj",
+          "platform": {
+            "id": 147,
+            "name": "Injective",
+            "slug": "injective"
+          }
+        },
+        {
+          "tokenAddress": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
+          "platform": {
+            "id": 8,
+            "name": "Cosmos",
+            "slug": "cosmos"
+          }
+        },
+        {
+          "tokenAddress": "secret14706vxakdzkz9a36872cs62vpl5qd84kpwvpew",
+          "platform": {
+            "id": 63,
+            "name": "Secret Network",
+            "slug": "secret"
+          }
+        },
+        {
+          "tokenAddress": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6474,
+      "rank": 50,
+      "slug": "fetch-ai",
+      "name": "Fetch AI",
+      "symbol": "FET",
+      "category": "Blockchain Service",
+      "type": "token",
+      "volume24hBase": 81248384.622,
+      "circulatingSupply": 1043462805,
+      "totalSupply": 1152997575,
+      "maxSupply": 1152997575,
+      "values": {
+        "USD": {
+          "price": 2.425768865788,
+          "volume24h": 197089801,
+          "high24h": 2.552475519662,
+          "low24h": 2.383192949475,
+          "marketCap": 2531199584.97682,
+          "percentChange24h": -2.6388,
+          "percentChange7d": 10.4636,
+          "percentChange30d": -1.141,
+          "percentChange3m": 334.4925,
+          "percentChange6m": 867.6235
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.335Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x031b41e504677879370e9dbcf937283a8691fa7f",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186954,
+      "rank": 51,
+      "slug": "wrapped-eeth",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "type": "token",
+      "volume24hBase": 1659.2431,
+      "circulatingSupply": 741472,
+      "totalSupply": 741664,
+      "values": {
+        "USD": {
+          "price": 3258.78530093453,
+          "volume24h": 5407117,
+          "high24h": 3306.60394505246,
+          "low24h": 3246.96292803744,
+          "marketCap": 2416298054.65453,
+          "percentChange24h": -0.123,
+          "percentChange7d": 0.581,
+          "percentChange30d": -5.374,
+          "percentChange3m": null,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 188967,
+      "rank": 52,
+      "slug": "rhena-usde",
+      "name": "Ethena USDe",
+      "symbol": "USDe",
+      "category": "Stablecoin",
+      "type": "token",
+      "volume24hBase": 48256040.251,
+      "circulatingSupply": 2362804802,
+      "totalSupply": 2362804802,
+      "values": {
+        "USD": {
+          "price": 0.999934352616,
+          "volume24h": 48252872,
+          "high24h": 1.000552693679,
+          "low24h": 0.999175943768,
+          "marketCap": 2362649690.04585,
+          "percentChange24h": -0.0026,
+          "percentChange7d": -0.0235,
+          "percentChange30d": null,
+          "percentChange3m": null,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "platform": {
+            "id": 103,
+            "name": "Mantle",
+            "slug": "mantle"
+          }
+        },
+        {
+          "tokenAddress": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "rank": 53,
+      "slug": "theta-token",
+      "name": "Theta Token",
+      "symbol": "THETA",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 15241710.3665,
+      "circulatingSupply": 1000000000,
+      "totalSupply": 1000000000,
+      "maxSupply": 1000000000,
+      "values": {
+        "USD": {
+          "price": 2.243561384231,
+          "volume24h": 34195712,
+          "high24h": 2.370939925196,
+          "low24h": 2.218247115019,
+          "marketCap": 2243561384.231,
+          "percentChange24h": -4.4633,
+          "percentChange7d": 4.2921,
+          "percentChange30d": -22.829,
+          "percentChange3m": 136.7323,
+          "percentChange6m": 246.2821
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "rank": 54,
+      "slug": "monero",
+      "name": "Monero",
+      "symbol": "XMR",
+      "category": "Currency",
+      "type": "coin",
+      "volume24hBase": 276304.4821,
+      "circulatingSupply": 18147820,
+      "totalSupply": 18147820,
+      "values": {
+        "USD": {
+          "price": 119.428300715409,
+          "volume24h": 32998574,
+          "high24h": 125.141173382306,
+          "low24h": 115.940167987571,
+          "marketCap": 2167363304.28911,
+          "percentChange24h": -3.4532,
+          "percentChange7d": 0.7263,
+          "percentChange30d": -10.6175,
+          "percentChange3m": -20.2199,
+          "percentChange6m": -25.6787
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": []
+    },
+    {
+      "id": 3981,
+      "rank": 55,
+      "slug": "arweave",
+      "name": "Arweave",
+      "symbol": "AR",
+      "category": "Blockchain Infrastructure",
+      "type": "coin",
+      "volume24hBase": 2410230.8499,
+      "circulatingSupply": 65454186,
+      "totalSupply": 65454186,
+      "maxSupply": 66000000,
+      "values": {
+        "USD": {
+          "price": 32.795890752012,
+          "volume24h": 79045667,
+          "high24h": 34.533913831087,
+          "low24h": 32.02922169995,
+          "marketCap": 2146628333.31787,
+          "percentChange24h": 1.1825,
+          "percentChange7d": 15.8825,
+          "percentChange30d": -9.7322,
+          "percentChange3m": 282.442,
+          "percentChange6m": 634.4012
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": []
+    },
+    {
+      "id": 3436,
+      "rank": 56,
+      "slug": "fantom",
+      "name": "Fantom",
+      "symbol": "FTM",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 126063164.9241,
+      "circulatingSupply": 2803634836,
+      "totalSupply": 3175000000,
+      "maxSupply": 3175000000,
+      "values": {
+        "USD": {
+          "price": 0.746251697041,
+          "volume24h": 94074850,
+          "high24h": 0.788588855439,
+          "low24h": 0.739682603405,
+          "marketCap": 2092217254.24827,
+          "percentChange24h": -2.8053,
+          "percentChange7d": 7.6211,
+          "percentChange30d": -32.6451,
+          "percentChange3m": 120.7253,
+          "percentChange6m": 225.2491
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xad12dab5959f30b9ff3c2d6709f53c335dc39908",
+          "platform": {
+            "id": 11,
+            "name": "Moonriver",
+            "slug": "moonriver"
+          }
+        },
+        {
+          "tokenAddress": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+          "platform": {
+            "id": 13,
+            "name": "Celo",
+            "slug": "celo"
+          }
+        },
+        {
+          "tokenAddress": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 177657,
+      "rank": 57,
+      "slug": "celestia",
+      "name": "Celestia",
+      "symbol": "TIA",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 9736401.4159,
+      "circulatingSupply": 178961336,
+      "totalSupply": 1037917808,
+      "values": {
+        "USD": {
+          "price": 11.426224227155,
+          "volume24h": 111250305,
+          "high24h": 12.191683061857,
+          "low24h": 11.377430385576,
+          "marketCap": 2044852353.12723,
+          "percentChange24h": -3.3178,
+          "percentChange7d": 11.6436,
+          "percentChange30d": -17.6157,
+          "percentChange3m": -24.9413,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": [
+        {
+          "tokenAddress": "ibc-F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
+          "platform": {
+            "id": 147,
+            "name": "Injective",
+            "slug": "injective"
+          }
+        },
+        {
+          "tokenAddress": "0x6Fae4D9935E2fcb11fC79a64e917fb2BF14DaFaa",
+          "platform": {
+            "id": 143,
+            "name": "Manta",
+            "slug": "manta"
+          }
+        },
+        {
+          "tokenAddress": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
+          "platform": {
+            "id": 8,
+            "name": "Cosmos",
+            "slug": "cosmos"
+          }
+        },
+        {
+          "tokenAddress": "secret1s9h6mrp4k9gll4zfv5h78ll68hdq8ml7jrnn20",
+          "platform": {
+            "id": 63,
+            "name": "Secret Network",
+            "slug": "secret"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7993,
+      "rank": 58,
+      "slug": "thor-chain",
+      "name": "THORChain",
+      "symbol": "RUNE",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 25832274.6862,
+      "circulatingSupply": 336212537,
+      "totalSupply": 500000000,
+      "maxSupply": 500000000,
+      "values": {
+        "USD": {
+          "price": 5.622821067587,
+          "volume24h": 145250258,
+          "high24h": 5.879127697673,
+          "low24h": 5.530310455575,
+          "marketCap": 1890462936.23047,
+          "percentChange24h": 0.8538,
+          "percentChange7d": 4.9176,
+          "percentChange30d": -31.6528,
+          "percentChange3m": 43.0527,
+          "percentChange6m": 161.7338
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 28522,
+      "rank": 59,
+      "slug": "lido-dao",
+      "name": "Lido DAO Token",
+      "symbol": "LDO",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 16457095.6061,
+      "circulatingSupply": 891734169,
+      "totalSupply": 1000000000,
+      "maxSupply": 1000000000,
+      "values": {
+        "USD": {
+          "price": 2.087270946666,
+          "volume24h": 34350417,
+          "high24h": 2.136438292927,
+          "low24h": 2.05993528061,
+          "marketCap": 1861290823.10305,
+          "percentChange24h": -0.8462,
+          "percentChange7d": 0.8892,
+          "percentChange30d": -25.7918,
+          "percentChange3m": -22.8257,
+          "percentChange6m": 16.5477
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        },
+        {
+          "tokenAddress": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "0x986854779804799C1d68867F5E03e601E781e41b",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": 23865,
+      "rank": 60,
+      "slug": "gala",
+      "name": "Gala",
+      "symbol": "GALA",
+      "category": "GameFi",
+      "type": "token",
+      "volume24hBase": 1686156682.6805,
+      "circulatingSupply": 38111804761,
+      "totalSupply": 38113896809,
+      "maxSupply": 50000000000,
+      "values": {
+        "USD": {
+          "price": 0.048509749621,
+          "volume24h": 81795038,
+          "high24h": 0.050905298261,
+          "low24h": 0.048077285964,
+          "marketCap": 1848794106.56055,
+          "percentChange24h": -2.8411,
+          "percentChange7d": 12.1982,
+          "percentChange30d": -14.5224,
+          "percentChange3m": 118.1635,
+          "percentChange6m": 230.8849
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 171101,
+      "rank": 61,
+      "slug": "rocket-pool-eth",
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "type": "token",
+      "volume24hBase": 1560.4781,
+      "circulatingSupply": 519163,
+      "totalSupply": 519163,
+      "values": {
+        "USD": {
+          "price": 3471.96008907432,
+          "volume24h": 5417917,
+          "high24h": 3522.71660722832,
+          "low24h": 3458.61198549836,
+          "marketCap": 1802513215.72409,
+          "percentChange24h": -0.1792,
+          "percentChange7d": 0.3857,
+          "percentChange30d": -5.9696,
+          "percentChange3m": 37.2407,
+          "percentChange6m": 81.0569
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.336Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+          "platform": {
+            "id": 98,
+            "name": "Base",
+            "slug": "base"
+          }
+        },
+        {
+          "tokenAddress": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0xae78736cd615f374d3085123a210448e74fc6393",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179475,
+      "rank": 62,
+      "slug": "bitget-token",
+      "name": "Bitget Token",
+      "symbol": "BGB",
+      "category": "CeFi",
+      "type": "token",
+      "volume24hBase": 22963787.4607,
+      "circulatingSupply": 1400001000,
+      "totalSupply": 2000000000,
+      "maxSupply": 2000000000,
+      "values": {
+        "USD": {
+          "price": 1.277811513257,
+          "volume24h": 29343392,
+          "high24h": 1.285685671068,
+          "low24h": 1.269483077068,
+          "marketCap": 1788937396.37131,
+          "percentChange24h": 0.0305,
+          "percentChange7d": 2.8676,
+          "percentChange30d": 39.7389,
+          "percentChange3m": 118.6269,
+          "percentChange6m": 192.7353
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.337Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175648,
+      "rank": 63,
+      "slug": "sui",
+      "name": "Sui",
+      "symbol": "SUI",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 100131165.1934,
+      "circulatingSupply": 1295901469,
+      "totalSupply": 10000000000,
+      "maxSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 1.366329856555,
+          "volume24h": 136812200,
+          "high24h": 1.428734996205,
+          "low24h": 1.347715572912,
+          "marketCap": 1770628868.24818,
+          "percentChange24h": -3.5067,
+          "percentChange7d": 16.0513,
+          "percentChange30d": -20.9533,
+          "percentChange3m": 27.418,
+          "percentChange6m": 225.9606
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.337Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x2::sui::SUI",
+          "platform": {
+            "id": 99,
+            "name": "Sui",
+            "slug": "sui"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175979,
+      "rank": 64,
+      "slug": "sei-network",
+      "name": "Sei",
+      "symbol": "SEI",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 141855984.1073,
+      "circulatingSupply": 2800000000,
+      "totalSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 0.6051202406,
+          "volume24h": 85839927,
+          "high24h": 0.609138594415,
+          "low24h": 0.575900048998,
+          "marketCap": 1694336673.68,
+          "percentChange24h": 1.4811,
+          "percentChange7d": 12.9562,
+          "percentChange30d": -24.6962,
+          "percentChange3m": 2.0386,
+          "percentChange6m": 457.1915
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.337Z",
+      "tokens": [
+        {
+          "tokenAddress": "usei",
+          "platform": {
+            "id": 157,
+            "name": "Sei",
+            "slug": "sei"
+          }
+        },
+        {
+          "tokenAddress": "ibc/71F11BC0AF8E526B80E44172EBA9D3F0A8E03950BB882325435691EBC9450B1D",
+          "platform": {
+            "id": 141,
+            "name": "Osmosis",
+            "slug": "osmosis"
+          }
+        }
+      ]
+    },
+    {
+      "id": 147914,
+      "rank": 65,
+      "slug": "floki",
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "category": "Meme",
+      "type": "token",
+      "volume24hBase": 1168061659046.78,
+      "circulatingSupply": 9711318016383,
+      "totalSupply": 10000000000000,
+      "maxSupply": 10000000000000,
+      "values": {
+        "USD": {
+          "price": 0.00017206597,
+          "volume24h": 200983662,
+          "high24h": 0.000178346623,
+          "low24h": 0.000162649238,
+          "marketCap": 1670987354.46742,
+          "percentChange24h": 5.7859,
+          "percentChange7d": 15.4113,
+          "percentChange30d": -28.4784,
+          "percentChange3m": 494.6986,
+          "percentChange6m": 525.0337
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.337Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186254,
+      "rank": 66,
+      "slug": "onbeam",
+      "name": "Beam",
+      "symbol": "BEAM",
+      "category": "GameFi",
+      "type": "token",
+      "volume24hBase": 453540591.1755,
+      "circulatingSupply": 52965667246,
+      "totalSupply": 62434008331,
+      "values": {
+        "USD": {
+          "price": 0.030489646014,
+          "volume24h": 13828292,
+          "high24h": 0.031298735346,
+          "low24h": 0.029998143781,
+          "marketCap": 1614904445.22585,
+          "percentChange24h": -0.747,
+          "percentChange7d": 14.6353,
+          "percentChange30d": -6.433,
+          "percentChange3m": 81.1528,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.337Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186828,
+      "rank": 67,
+      "slug": "jupiter-stattion",
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 93939967.3317,
+      "circulatingSupply": 1350000000,
+      "totalSupply": 10000000000,
+      "maxSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 1.162735684376,
+          "volume24h": 109227352,
+          "high24h": 1.213717923404,
+          "low24h": 1.139007302902,
+          "marketCap": 1569693173.9076,
+          "percentChange24h": -1.1433,
+          "percentChange7d": 11.9192,
+          "percentChange30d": -5.8328,
+          "percentChange3m": null,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.337Z",
+      "tokens": [
+        {
+          "tokenAddress": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186857,
+      "rank": 68,
+      "slug": "mantle-staked-ether",
+      "name": "Mantle Staked Ether",
+      "symbol": "mETH",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 851.5666,
+      "circulatingSupply": 483288,
+      "totalSupply": 483288,
+      "values": {
+        "USD": {
+          "price": 3217.28099247279,
+          "volume24h": 2739729,
+          "high24h": 3265.65517921789,
+          "low24h": 3207.26360338794,
+          "marketCap": 1554873296.29019,
+          "percentChange24h": -0.2491,
+          "percentChange7d": 0.1941,
+          "percentChange30d": -5.9224,
+          "percentChange3m": 36.6504,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.337Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xcda86a272531e8640cd7f1a92c01839911b90bb0",
+          "platform": {
+            "id": 103,
+            "name": "Mantle",
+            "slug": "mantle"
+          }
+        },
+        {
+          "tokenAddress": "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3475,
+      "rank": 69,
+      "slug": "quant",
+      "name": "Quant",
+      "symbol": "QNT",
+      "category": "Blockchain Infrastructure",
+      "type": "token",
+      "volume24hBase": 74881.5765,
+      "circulatingSupply": 14544176,
+      "totalSupply": 14612493,
+      "maxSupply": 14612493,
+      "values": {
+        "USD": {
+          "price": 106.560708436428,
+          "volume24h": 7979433,
+          "high24h": 109.61591472729,
+          "low24h": 104.989106655653,
+          "marketCap": 1549837698.18409,
+          "percentChange24h": -2.0328,
+          "percentChange7d": 4.2019,
+          "percentChange30d": -13.0723,
+          "percentChange3m": 0.0622,
+          "percentChange6m": 10.7311
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.337Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x4a220e6096b25eadb88358cb44068a3248254675",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5551,
+      "rank": 70,
+      "slug": "algorand",
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 114818735.5965,
+      "circulatingSupply": 8130133314,
+      "totalSupply": 8130133658,
+      "maxSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 0.189714455257,
+          "volume24h": 21782773,
+          "high24h": 0.193918446472,
+          "low24h": 0.185549005477,
+          "marketCap": 1542403812.8323,
+          "percentChange24h": -1.1827,
+          "percentChange7d": 6.3681,
+          "percentChange30d": -23.124,
+          "percentChange3m": 16.8835,
+          "percentChange6m": 93.6507
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.337Z",
+      "tokens": []
+    },
+    {
+      "id": 4,
+      "rank": 71,
+      "slug": "neo",
+      "name": "NEO",
+      "symbol": "NEO",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 3061514.9361,
+      "circulatingSupply": 70530000,
+      "totalSupply": 100000000,
+      "maxSupply": 100000000,
+      "values": {
+        "USD": {
+          "price": 20.94145239003,
+          "volume24h": 64112569,
+          "high24h": 21.064311718122,
+          "low24h": 19.12793339706,
+          "marketCap": 1477000637.06882,
+          "percentChange24h": 8.1689,
+          "percentChange7d": -2.1519,
+          "percentChange30d": 40.4133,
+          "percentChange3m": 95.2439,
+          "percentChange6m": 173.0309
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": []
+    },
+    {
+      "id": 185305,
+      "rank": 72,
+      "slug": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 337001426.7237,
+      "circulatingSupply": 1425000000,
+      "totalSupply": 15000000000,
+      "maxSupply": 15000000000,
+      "values": {
+        "USD": {
+          "price": 1.033968886745,
+          "volume24h": 348448990,
+          "high24h": 1.106243648142,
+          "low24h": 1.031648074515,
+          "marketCap": 1473405663.61163,
+          "percentChange24h": -3.4667,
+          "percentChange7d": -9.7284,
+          "percentChange30d": null,
+          "percentChange3m": null,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175850,
+      "rank": 73,
+      "slug": "whitebit-token",
+      "name": "WhiteBIT Coin",
+      "symbol": "WBT",
+      "category": "CeFi",
+      "type": "token",
+      "volume24hBase": 1447460.4979,
+      "circulatingSupply": 144118517,
+      "totalSupply": 355068227,
+      "maxSupply": 400000000,
+      "values": {
+        "USD": {
+          "price": 9.838900275192,
+          "volume24h": 14241419,
+          "high24h": 9.868838604454,
+          "low24h": 9.730276751407,
+          "marketCap": 1417967716.57156,
+          "percentChange24h": 1.0172,
+          "percentChange7d": 8.2508,
+          "percentChange30d": 22.4545,
+          "percentChange3m": 57.4336,
+          "percentChange6m": 77.9139
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": [
+        {
+          "tokenAddress": "TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt",
+          "platform": {
+            "id": 6,
+            "name": "TRON",
+            "slug": "tron"
+          }
+        },
+        {
+          "tokenAddress": "0x925206b8a707096Ed26ae47C84747fE0bb734F59",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 25301,
+      "rank": 74,
+      "slug": "flow",
+      "name": "Flow",
+      "symbol": "FLOW",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 23997728.5276,
+      "circulatingSupply": 1499068195,
+      "totalSupply": 1499068195,
+      "maxSupply": 1499068195,
+      "values": {
+        "USD": {
+          "price": 0.939642299897,
+          "volume24h": 22549280,
+          "high24h": 0.967018312463,
+          "low24h": 0.9232348625,
+          "marketCap": 1408587886.45224,
+          "percentChange24h": -1.7913,
+          "percentChange7d": 0.8538,
+          "percentChange30d": -27.4378,
+          "percentChange3m": 26.159,
+          "percentChange6m": 93.1332
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": []
+    },
+    {
+      "id": 5902,
+      "rank": 75,
+      "slug": "bitcoin-sv",
+      "name": "Bitcoin SV",
+      "symbol": "BSV",
+      "category": "Currency",
+      "type": "coin",
+      "volume24hBase": 170531.9756,
+      "circulatingSupply": 19691203,
+      "totalSupply": 21000000,
+      "maxSupply": 21000000,
+      "values": {
+        "USD": {
+          "price": 69.815046378914,
+          "volume24h": 11905697,
+          "high24h": 71.256527606221,
+          "low24h": 68.415090496453,
+          "marketCap": 1374742250.70161,
+          "percentChange24h": -0.932,
+          "percentChange7d": 0.4542,
+          "percentChange30d": -13.2391,
+          "percentChange3m": 1.045,
+          "percentChange6m": 28.521
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": []
+    },
+    {
+      "id": 179862,
+      "rank": 76,
+      "slug": "bonk-new",
+      "name": "Bonk",
+      "symbol": "BONK",
+      "category": "Meme",
+      "type": "token",
+      "volume24hBase": 15001010249527.8,
+      "circulatingSupply": 66295523592415,
+      "totalSupply": 93526183276778,
+      "maxSupply": 93863283342446,
+      "values": {
+        "USD": {
+          "price": 0.000020527357,
+          "volume24h": 307931092,
+          "high24h": 0.00002197134,
+          "low24h": 0.000019423425,
+          "marketCap": 1360871880.28343,
+          "percentChange24h": 5.6395,
+          "percentChange7d": 29.2094,
+          "percentChange30d": -8.128,
+          "percentChange3m": 97.3479,
+          "percentChange6m": 6402.1514
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x09199d9A5F4448D0848e4395D065e1ad9c4a1F74",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56",
+          "platform": {
+            "id": 91,
+            "name": "Aptos",
+            "slug": "aptos"
+          }
+        },
+        {
+          "tokenAddress": "0xd4b6520f7fb78e1ee75639f3376c581a71bcdb0e",
+          "platform": {
+            "id": 121,
+            "name": " Neon EVM",
+            "slug": "neon-evm"
+          }
+        },
+        {
+          "tokenAddress": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        },
+        {
+          "tokenAddress": "0xA697e272a73744b343528C3Bc4702F2565b2F422",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x1151CB3d861920e07a38e03eEAd12C32178567F6",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": 23773,
+      "rank": 77,
+      "slug": "aave",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 368025.5251,
+      "circulatingSupply": 14806328,
+      "totalSupply": 16000000,
+      "maxSupply": 16000000,
+      "values": {
+        "USD": {
+          "price": 90.997250948557,
+          "volume24h": 33489311,
+          "high24h": 93.096034151163,
+          "low24h": 89.499267087295,
+          "marketCap": 1347335144.64265,
+          "percentChange24h": -1.2588,
+          "percentChange7d": 5.473,
+          "percentChange30d": -24.7822,
+          "percentChange3m": -0.6448,
+          "percentChange6m": 7.578
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": [
+        {
+          "tokenAddress": "7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.factory.bridge.near",
+          "platform": {
+            "id": 29,
+            "name": "Near Protocol",
+            "slug": "near-protocol"
+          }
+        },
+        {
+          "tokenAddress": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+          "platform": {
+            "id": 7,
+            "name": "Avalanche C-Chain",
+            "slug": "avalanche"
+          }
+        },
+        {
+          "tokenAddress": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+          "platform": {
+            "id": 14,
+            "name": "HECO Chain",
+            "slug": "huobi-token"
+          }
+        },
+        {
+          "tokenAddress": "0x0091bd8d8295b25cab5a7b8b0e44498e678cfc15d872ede3215f7d4c7635ba36",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        },
+        {
+          "tokenAddress": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+          "platform": {
+            "id": 10,
+            "name": "Fantom",
+            "slug": "fantom"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172327,
+      "rank": 78,
+      "slug": "bittorrent-new",
+      "name": "BitTorrent (new)",
+      "symbol": "BTT",
+      "category": "Blockchain Service",
+      "type": "token",
+      "volume24hBase": 17662503303248.8,
+      "circulatingSupply": 968246428571000,
+      "totalSupply": 990000000000000,
+      "maxSupply": 990000000000000,
+      "values": {
+        "USD": {
+          "price": 0.000001343175,
+          "volume24h": 23723832,
+          "high24h": 0.000001384523,
+          "low24h": 0.000001341524,
+          "marketCap": 1300524396.69585,
+          "percentChange24h": -1.6496,
+          "percentChange7d": -0.2515,
+          "percentChange30d": -1.2842,
+          "percentChange3m": 53.0986,
+          "percentChange6m": 238.4421
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": [
+        {
+          "tokenAddress": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+          "platform": {
+            "id": 6,
+            "name": "TRON",
+            "slug": "tron"
+          }
+        },
+        {
+          "tokenAddress": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 179864,
+      "rank": 79,
+      "slug": "flare",
+      "name": "Flare",
+      "symbol": "FLR",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 186086238.5419,
+      "circulatingSupply": 38612784529,
+      "totalSupply": 101875837655,
+      "values": {
+        "USD": {
+          "price": 0.033442194665,
+          "volume24h": 6223132,
+          "high24h": 0.034625763404,
+          "low24h": 0.033344600354,
+          "marketCap": 1291296256.77652,
+          "percentChange24h": -2.1811,
+          "percentChange7d": -0.1431,
+          "percentChange30d": 2.8047,
+          "percentChange3m": 60.9186,
+          "percentChange6m": 261.6138
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": []
+    },
+    {
+      "id": 99,
+      "rank": 80,
+      "slug": "singularitynet",
+      "name": "SingularityNET",
+      "symbol": "AGIX",
+      "category": "Blockchain Service",
+      "type": "token",
+      "volume24hBase": 135343262.5905,
+      "circulatingSupply": 1282094972,
+      "totalSupply": 1401796166,
+      "maxSupply": 2000000000,
+      "values": {
+        "USD": {
+          "price": 0.986993419996,
+          "volume24h": 133582909,
+          "high24h": 1.019042397701,
+          "low24h": 0.960873879736,
+          "marketCap": 1265419301.17396,
+          "percentChange24h": -0.6951,
+          "percentChange7d": 14.199,
+          "percentChange30d": -4.4707,
+          "percentChange3m": 283.2968,
+          "percentChange6m": 415.7432
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.338Z",
+      "tokens": [
+        {
+          "tokenAddress": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+          "platform": {
+            "id": 83,
+            "name": "Cardano",
+            "slug": "cardano"
+          }
+        },
+        {
+          "tokenAddress": "0x005e152271f8816d76221c7a0b5c6cafcb54fdfb6954dd8812f0158bfeac900d",
+          "platform": {
+            "id": 24,
+            "name": "SORA",
+            "slug": "sora"
+          }
+        },
+        {
+          "tokenAddress": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186324,
+      "rank": 81,
+      "slug": "d-yd-x-native",
+      "name": "dYdX (Native)",
+      "symbol": "DYDX",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 63165.2612,
+      "circulatingSupply": 501325667,
+      "totalSupply": 722022077,
+      "maxSupply": 1000000000,
+      "values": {
+        "USD": {
+          "price": 2.352421692931,
+          "volume24h": 148591,
+          "high24h": 2.426516464296,
+          "low24h": 2.301065719867,
+          "marketCap": 1179329374.2739,
+          "percentChange24h": -2.1133,
+          "percentChange7d": 7.4915,
+          "percentChange30d": -29.2854,
+          "percentChange3m": -16.5381,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": [
+        {
+          "tokenAddress": "ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C",
+          "platform": {
+            "id": 8,
+            "name": "Cosmos",
+            "slug": "cosmos"
+          }
+        },
+        {
+          "tokenAddress": "secret13lndcagy53wfzh69rtv0dex3a7cks0dv5emwke",
+          "platform": {
+            "id": 63,
+            "name": "Secret Network",
+            "slug": "secret"
+          }
+        }
+      ]
+    },
+    {
+      "id": 23068,
+      "rank": 82,
+      "slug": "elrond-gold",
+      "name": "MultiversX",
+      "symbol": "EGLD",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 307551.6666,
+      "circulatingSupply": 26845871,
+      "totalSupply": 26851023,
+      "maxSupply": 31415926,
+      "values": {
+        "USD": {
+          "price": 43.768556781521,
+          "volume24h": 13461092,
+          "high24h": 44.884706185142,
+          "low24h": 43.030243053374,
+          "marketCap": 1175005029.21289,
+          "percentChange24h": -1.5246,
+          "percentChange7d": 8.0219,
+          "percentChange30d": -27.2234,
+          "percentChange3m": -12.3357,
+          "percentChange6m": 49.9817
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": []
+    },
+    {
+      "id": 174378,
+      "rank": 83,
+      "slug": "ondo-finance",
+      "name": "Ondo ",
+      "symbol": "ONDO",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 209526835.8278,
+      "circulatingSupply": 1443764728,
+      "totalSupply": 10000000000,
+      "maxSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 0.809118350206,
+          "volume24h": 169532007,
+          "high24h": 0.847216974468,
+          "low24h": 0.80700133444,
+          "marketCap": 1168176534.80497,
+          "percentChange24h": -2.4597,
+          "percentChange7d": -7.4162,
+          "percentChange30d": 14.4468,
+          "percentChange3m": 228.7844,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 25702,
+      "rank": 84,
+      "slug": "ribbon-finance",
+      "name": "Ribbon Finance",
+      "symbol": "RBN",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 3576992.8222,
+      "circulatingSupply": 971928368,
+      "totalSupply": 1000000000,
+      "maxSupply": 1000000000,
+      "values": {
+        "USD": {
+          "price": 1.17543307574,
+          "volume24h": 4204515,
+          "high24h": 1.199833049801,
+          "low24h": 1.134166361871,
+          "marketCap": 1142436750.9972,
+          "percentChange24h": 1.6763,
+          "percentChange7d": -12.1088,
+          "percentChange30d": -13.6599,
+          "percentChange3m": 152.3771,
+          "percentChange6m": 591.9115
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 26691,
+      "rank": 85,
+      "slug": "axie-infinity",
+      "name": "Axie Infinity",
+      "symbol": "AXS",
+      "category": "GameFi",
+      "type": "token",
+      "volume24hBase": 2689126.9547,
+      "circulatingSupply": 143431281,
+      "totalSupply": 270000000,
+      "maxSupply": 270000000,
+      "values": {
+        "USD": {
+          "price": 7.730282508245,
+          "volume24h": 20787711,
+          "high24h": 7.914689164607,
+          "low24h": 7.604353672529,
+          "marketCap": 1108764322.64947,
+          "percentChange24h": -0.1111,
+          "percentChange7d": 5.8572,
+          "percentChange30d": -25.2896,
+          "percentChange3m": 5.7547,
+          "percentChange6m": 65.8962
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x14a7b318fed66ffdcc80c1517c172c13852865de",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+          "platform": {
+            "id": 34,
+            "name": "Ronin",
+            "slug": "ronin"
+          }
+        },
+        {
+          "tokenAddress": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 186663,
+      "rank": 86,
+      "slug": "wormhole",
+      "name": "Wormhole",
+      "symbol": "W",
+      "category": "Blockchain Infrastructure",
+      "type": "token",
+      "volume24hBase": 152777236.5451,
+      "circulatingSupply": 1800000000,
+      "totalSupply": 10000000000,
+      "maxSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 0.615682022184,
+          "volume24h": 94062197,
+          "high24h": 0.670045852453,
+          "low24h": 0.605778726244,
+          "marketCap": 1108227639.9312,
+          "percentChange24h": -3.7868,
+          "percentChange7d": -7.1803,
+          "percentChange30d": null,
+          "percentChange3m": null,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+          "platform": {
+            "id": 61,
+            "name": "Arbitrum",
+            "slug": "arbitrum"
+          }
+        },
+        {
+          "tokenAddress": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+          "platform": {
+            "id": 98,
+            "name": "Base",
+            "slug": "base"
+          }
+        },
+        {
+          "tokenAddress": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        },
+        {
+          "tokenAddress": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 143191,
+      "rank": 87,
+      "slug": "ecash",
+      "name": "eCash",
+      "symbol": "XEC",
+      "category": "Currency",
+      "type": "coin",
+      "volume24hBase": 192255223574.826,
+      "circulatingSupply": 19691348423092,
+      "totalSupply": 21000000000000,
+      "maxSupply": 21000000000000,
+      "values": {
+        "USD": {
+          "price": 0.000055934651,
+          "volume24h": 10753728,
+          "high24h": 0.000058431029,
+          "low24h": 0.000055585101,
+          "marketCap": 1101428701.76505,
+          "percentChange24h": -3.4788,
+          "percentChange7d": -4.1979,
+          "percentChange30d": 4.4485,
+          "percentChange3m": 81.1241,
+          "percentChange6m": 94.1638
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x0Ef2e7602adD1733Bfdb17aC3094d0421B502cA3",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 20089,
+      "rank": 88,
+      "slug": "tokenize-xchange",
+      "name": "Tokenize Xchange",
+      "symbol": "TKX",
+      "category": "CeFi",
+      "type": "token",
+      "volume24hBase": 80585.2982,
+      "circulatingSupply": 79996000,
+      "totalSupply": 100000000,
+      "maxSupply": 100000000,
+      "values": {
+        "USD": {
+          "price": 13.66935595559,
+          "volume24h": 1101549,
+          "high24h": 13.940212054415,
+          "low24h": 13.639497101609,
+          "marketCap": 1093493799.02338,
+          "percentChange24h": -1.1365,
+          "percentChange7d": -2.532,
+          "percentChange30d": -5.5779,
+          "percentChange3m": 9.3132,
+          "percentChange6m": 164.2272
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 172730,
+      "rank": 89,
+      "slug": "ronin",
+      "name": "Ronin",
+      "symbol": "RON",
+      "category": "GameFi",
+      "type": "coin",
+      "volume24hBase": 3302462.5439,
+      "circulatingSupply": 315479788,
+      "totalSupply": 1000000000,
+      "maxSupply": 1000000000,
+      "values": {
+        "USD": {
+          "price": 3.39502912296,
+          "volume24h": 11211956,
+          "high24h": 3.477907239114,
+          "low24h": 3.349788012245,
+          "marketCap": 1071063067.96525,
+          "percentChange24h": -1.244,
+          "percentChange7d": 4.5712,
+          "percentChange30d": -14.6513,
+          "percentChange3m": 52.5643,
+          "percentChange6m": 661.2281
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xe514d9deb7966c8be0ca922de8a064264ea6bcd4",
+          "platform": {
+            "id": 34,
+            "name": "Ronin",
+            "slug": "ronin"
+          }
+        }
+      ]
+    },
+    {
+      "id": 21407,
+      "rank": 90,
+      "slug": "sandbox",
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "category": "GameFi",
+      "type": "token",
+      "volume24hBase": 82852990.3096,
+      "circulatingSupply": 2251731926,
+      "totalSupply": 3000000000,
+      "maxSupply": 3000000000,
+      "values": {
+        "USD": {
+          "price": 0.474561461014,
+          "volume24h": 39318836,
+          "high24h": 0.492689575089,
+          "low24h": 0.471106217612,
+          "marketCap": 1068585192.61443,
+          "percentChange24h": -2.2527,
+          "percentChange7d": 7.1567,
+          "percentChange30d": -28.5707,
+          "percentChange3m": 4.581,
+          "percentChange6m": 46.8135
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.339Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x35de8649e1e4fd1a7bd3b14f7e24e5e7887174ed",
+          "platform": {
+            "id": 12,
+            "name": "Harmony",
+            "slug": "harmony"
+          }
+        },
+        {
+          "tokenAddress": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": 178389,
+      "rank": 91,
+      "slug": "world-coin",
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "category": "Blockchain Service",
+      "type": "token",
+      "volume24hBase": 38432087.4857,
+      "circulatingSupply": 188748544,
+      "totalSupply": 10000000000,
+      "maxSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 5.541513785528,
+          "volume24h": 212971942,
+          "high24h": 5.905842438871,
+          "low24h": 5.447129682996,
+          "marketCap": 1045952658.57434,
+          "percentChange24h": -2.7241,
+          "percentChange7d": 7.978,
+          "percentChange30d": -34.389,
+          "percentChange3m": 144.2151,
+          "percentChange6m": 235.933
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": [
+        {
+          "tokenAddress": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "0x163f8C2467924be0ae7B5347228CABF260318753",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7858,
+      "rank": 92,
+      "slug": "chiliz",
+      "name": "Chiliz",
+      "symbol": "CHZ",
+      "category": "Chain",
+      "type": "token",
+      "volume24hBase": 252626896.0215,
+      "circulatingSupply": 8888888888,
+      "totalSupply": 8888888888,
+      "maxSupply": 8888888888,
+      "values": {
+        "USD": {
+          "price": 0.116776843534,
+          "volume24h": 29500971,
+          "high24h": 0.119879462766,
+          "low24h": 0.114732866393,
+          "marketCap": 1038016386.86509,
+          "percentChange24h": -1.8578,
+          "percentChange7d": 9.8374,
+          "percentChange30d": -15.2571,
+          "percentChange3m": 25.4573,
+          "percentChange6m": 76.7844
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 182880,
+      "rank": 93,
+      "slug": "ordinals",
+      "name": "ORDI",
+      "symbol": "ORDI",
+      "category": "Meme",
+      "type": "token",
+      "volume24hBase": 3417733.0028,
+      "circulatingSupply": 21000000,
+      "totalSupply": 21000000,
+      "maxSupply": 21000000,
+      "values": {
+        "USD": {
+          "price": 48.643170447368,
+          "volume24h": 166249368,
+          "high24h": 51.49001642258,
+          "low24h": 47.736232646133,
+          "marketCap": 1021506579.39473,
+          "percentChange24h": -3.9902,
+          "percentChange7d": 4.5284,
+          "percentChange30d": -22.6859,
+          "percentChange3m": -22.1844,
+          "percentChange6m": 920.5229
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x1D1CE1D02ba582CffD0fc0093fD6BaB678708B4e",
+          "platform": {
+            "id": 242,
+            "name": "BEVM",
+            "slug": "bevm"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1258,
+      "rank": 94,
+      "slug": "tezos",
+      "name": "Tezos",
+      "symbol": "XTZ",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 13842121.4599,
+      "circulatingSupply": 979010644,
+      "totalSupply": 999588724,
+      "values": {
+        "USD": {
+          "price": 1.040157481587,
+          "volume24h": 14397986,
+          "high24h": 1.084643294651,
+          "low24h": 1.030927907399,
+          "marketCap": 1018325245.90991,
+          "percentChange24h": -3.2281,
+          "percentChange7d": 0.4924,
+          "percentChange30d": -16.5398,
+          "percentChange3m": 8.6675,
+          "percentChange6m": 47.5706
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 182004,
+      "rank": 95,
+      "slug": "pyth-network",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "category": "Blockchain Infrastructure",
+      "type": "token",
+      "volume24hBase": 113452265.749,
+      "circulatingSupply": 1500000000,
+      "totalSupply": 10000000000,
+      "maxSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 0.677079161777,
+          "volume24h": 76816164,
+          "high24h": 0.708803108493,
+          "low24h": 0.663064031229,
+          "marketCap": 1015618742.6655,
+          "percentChange24h": -0.7517,
+          "percentChange7d": 10.9209,
+          "percentChange30d": -27.8966,
+          "percentChange3m": 75.5653,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x90e95735378a31bfad2dcd87128fbb80ffeb6917",
+          "platform": {
+            "id": 143,
+            "name": "Manta",
+            "slug": "manta"
+          }
+        },
+        {
+          "tokenAddress": "0x0575dd4afd93b7522fee4e0179f243eca3856137",
+          "platform": {
+            "id": 121,
+            "name": " Neon EVM",
+            "slug": "neon-evm"
+          }
+        },
+        {
+          "tokenAddress": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+          "platform": {
+            "id": 1,
+            "name": "Solana",
+            "slug": "solana"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1572,
+      "rank": 96,
+      "slug": "synthetix",
+      "name": "Synthetix Network",
+      "symbol": "SNX",
+      "category": "DeFi",
+      "type": "token",
+      "volume24hBase": 4507513.3544,
+      "circulatingSupply": 327769196,
+      "totalSupply": 328193104,
+      "maxSupply": 328193104,
+      "values": {
+        "USD": {
+          "price": 3.061760083693,
+          "volume24h": 13800924,
+          "high24h": 3.13320417199,
+          "low24h": 2.994620453872,
+          "marketCap": 1003550640.97695,
+          "percentChange24h": -1.0045,
+          "percentChange7d": 3.9773,
+          "percentChange30d": -29.6487,
+          "percentChange3m": -4.4452,
+          "percentChange6m": 37.2859
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": [
+        {
+          "tokenAddress": "c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.factory.bridge.near",
+          "platform": {
+            "id": 29,
+            "name": "Near Protocol",
+            "slug": "near-protocol"
+          }
+        },
+        {
+          "tokenAddress": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+          "platform": {
+            "id": 84,
+            "name": "Optimism",
+            "slug": "optimism"
+          }
+        },
+        {
+          "tokenAddress": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        },
+        {
+          "tokenAddress": "0x777850281719d5a96c29812ab72f822e0e09f3da",
+          "platform": {
+            "id": 14,
+            "name": "HECO Chain",
+            "slug": "huobi-token"
+          }
+        },
+        {
+          "tokenAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        },
+        {
+          "tokenAddress": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+          "platform": {
+            "id": 10,
+            "name": "Fantom",
+            "slug": "fantom"
+          }
+        },
+        {
+          "tokenAddress": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+          "platform": {
+            "id": 5,
+            "name": "Polygon",
+            "slug": "matic-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": 27208,
+      "rank": 97,
+      "slug": "conflux-network",
+      "name": "Conflux",
+      "symbol": "CFX",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 139218121.4439,
+      "circulatingSupply": 3942430561,
+      "totalSupply": 5489392754,
+      "values": {
+        "USD": {
+          "price": 0.247991584344,
+          "volume24h": 34524922,
+          "high24h": 0.25832447398,
+          "low24h": 0.245894533753,
+          "marketCap": 977689600.988595,
+          "percentChange24h": -3.0008,
+          "percentChange7d": 0.9479,
+          "percentChange30d": -44.4455,
+          "percentChange3m": 36.7465,
+          "percentChange6m": 112.7532
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x045c4324039da91c52c55df5d785385aab073dcf",
+          "platform": {
+            "id": 4,
+            "name": "BNB",
+            "slug": "bnb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 28593,
+      "rank": 98,
+      "slug": "jasmy",
+      "name": "Jasmy",
+      "symbol": "JASMY",
+      "category": "Blockchain Service",
+      "type": "token",
+      "volume24hBase": 2833381148.4581,
+      "circulatingSupply": 48419999999,
+      "totalSupply": 50000000000,
+      "maxSupply": 50000000000,
+      "values": {
+        "USD": {
+          "price": 0.020068792639,
+          "volume24h": 56862538,
+          "high24h": 0.020953012113,
+          "low24h": 0.01979793037,
+          "marketCap": 971730939.560311,
+          "percentChange24h": 1.3284,
+          "percentChange7d": 4.0733,
+          "percentChange30d": -4.5362,
+          "percentChange3m": 314.3678,
+          "percentChange6m": 500.5085
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 175531,
+      "rank": 99,
+      "slug": "starknet",
+      "name": "StarkNet",
+      "symbol": "STRK",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 58745184.1744,
+      "circulatingSupply": 728000000,
+      "totalSupply": 10000000000,
+      "values": {
+        "USD": {
+          "price": 1.317699768682,
+          "volume24h": 77408515,
+          "high24h": 1.370334861826,
+          "low24h": 1.292790765972,
+          "marketCap": 959285431.600496,
+          "percentChange24h": -1.675,
+          "percentChange7d": -9.3506,
+          "percentChange30d": -36.0262,
+          "percentChange3m": null,
+          "percentChange6m": null
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": [
+        {
+          "tokenAddress": "0x4718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
+          "platform": {
+            "id": 106,
+            "name": "Starknet",
+            "slug": "starknet"
+          }
+        },
+        {
+          "tokenAddress": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+          "platform": {
+            "id": 3,
+            "name": "Ethereum",
+            "slug": "ethereum"
+          }
+        }
+      ]
+    },
+    {
+      "id": 78266,
+      "rank": 100,
+      "slug": "mina-protocol",
+      "name": "Mina Protocol",
+      "symbol": "MINA",
+      "category": "Chain",
+      "type": "coin",
+      "volume24hBase": 18539836.5801,
+      "circulatingSupply": 1090535967,
+      "totalSupply": 1150037453,
+      "values": {
+        "USD": {
+          "price": 0.861629587206,
+          "volume24h": 15974471,
+          "high24h": 0.888031435686,
+          "low24h": 0.843213131252,
+          "marketCap": 939638055.079506,
+          "percentChange24h": -1.538,
+          "percentChange7d": 9.2803,
+          "percentChange30d": -30.2787,
+          "percentChange3m": -17.4466,
+          "percentChange6m": 86.663
+        }
+      },
+      "lastUpdated": "2024-04-22T02:17:54.340Z",
+      "tokens": []
+    }
+  ],
+  "meta": {
+    "count": 6698
+  },
+  "status": {
+    "time": "2024-04-22T02:19:51.514Z",
+    "success": true,
+    "code": 200,
+    "message": "OK",
+    "responseTime": 95,
+    "creditsCost": 1
+  }
+}
