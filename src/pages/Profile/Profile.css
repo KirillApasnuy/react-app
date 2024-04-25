@@ -27,9 +27,13 @@
 .briefcase {
     padding: 10px;
 }
+.briefcase h5 {
+    color: var(--tg-theme-text-color);
+}
 .list-group-item {
     font-size: 20px;
-
+    background-color: var(--tg-theme-header-bg-color);
+    color: var(--tg-theme-text-color);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

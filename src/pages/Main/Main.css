@@ -39,3 +39,9 @@
     flex-direction: column;
     text-align: center;
 }
+.entrailsCard h5 {
+    color: var(--tg-theme-text-color);
+}
+.entrailsCard p{
+    color: var(--tg-theme-text-color);
+}
