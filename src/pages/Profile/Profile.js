@@ -24,7 +24,7 @@ const Profile = () => {
                 symbol: "ETH", quantity: 10, price: 3143
             },
             {
-                symbol: "USDT", quantity: 100000, price: 1
+                symbol: "USDT", quantity: 1000, price: 1
             }
         ]
 
