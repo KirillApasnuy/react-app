@@ -23,6 +23,8 @@
 
 .userCardBalance {
     font-size: 25px;
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 .userCard {
