@@ -1,7 +1,8 @@
 import React from 'react';
 import "./Main.css"
 import CryptoList from "../../components/CryptoList/CryptoList";
-import {ReactComponent as Ruble} from "../../assets/icon/ruble.svg";
+import Ruble from "../../assets/icomComponents/Ruble";
+
 
 const Main = () => {
     // если не пришли данные с бд, до по дефолту 0
@@ -14,7 +15,7 @@ const Main = () => {
                     <h5 className="titleUserCard">Баланс</h5>
                     <p className="userCardBalance">
                         {balance && 0 ? 0 : balance}
-                        <Ruble/>
+                        <Ruble size={25} color={"var(--tg-theme-text-color)"}/>
                     </p>
                 </div>
             </div>

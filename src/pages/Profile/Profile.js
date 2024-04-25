@@ -4,7 +4,7 @@ import {useTelegram} from "../../hooks/useTelegram";
 import Bitcoin from "../../assets/icomComponents/Bitcoin";
 import Ethereum from "../../assets/icomComponents/Ethereum";
 import Tether from "../../assets/icomComponents/Tether";
-import {ReactComponent as Ruble} from "../../assets/icon/ruble.svg";
+import Ruble from "../../assets/icomComponents/Ruble";
 
 const Profile = () => {
         // почему то не получилось сделать экспорт этого объекта, по этому так(
@@ -46,7 +46,7 @@ const Profile = () => {
                     <h5>Портфель</h5>
                     <ul className="list-group">
                         {briefcase.map(item => (
-                            <li className="list-group-item">{symbol[item.symbol]} Кол-во: {item.quantity} Цена: {Math.ceil(Number(item.price * item.quantity * 93 )).toLocaleString()}<Ruble/></li>
+                            <li className="list-group-item">{symbol[item.symbol]} Кол-во: {item.quantity} Цена: {Math.ceil(Number(item.price * item.quantity * 93 )).toLocaleString()}<Ruble size={25} color={"var(--tg-theme-text-color)"}/></li>
                         ))}
                     </ul>
                 </div>
