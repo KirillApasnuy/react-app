@@ -1,3 +1,19 @@
 .card-body {
     white-space: nowrap;
 }
+.firstLineCrypto {
+    font-size: 25px;
+}
+.secondLineCrypto {
+    display: flex;
+    flex-direction: row;
+    font-size: 23px;
+}
+.allLineCrypto {
+    display: flex;
+    flex-direction: row;
+    text-align: start;
+}
+.arrows {
+    padding-top: 0;
+}

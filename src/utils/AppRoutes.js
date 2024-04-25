@@ -4,6 +4,7 @@ import Main from "../pages/Main/Main";
 import Chat from "../pages/Chat/Chat";
 import Community from "../pages/Community/Community";
 import Profile from "../pages/Profile/Profile";
+import DownNavBar from "../components/DownNavBar/DownNavBar";
 
 const AppRoutes = () => {
     return (

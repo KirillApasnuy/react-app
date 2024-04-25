@@ -11,6 +11,7 @@ const Header = () => {
             <span className={'username'}>
                 {user?.username}
             </span>
+            <a href={"/"}><img src={"logo512.png"} width={40} height={40}/></a>
         </div>
     );
 };

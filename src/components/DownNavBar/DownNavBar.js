@@ -9,13 +9,13 @@ const DownNavBar = () => {
                     <a className="nav-link active" aria-current="page" href="/">Главная</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="/chat">chat</a>
+                    <a className="nav-link" href="/chat">Чат</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="/community">Community</a>
+                    <a className="nav-link" href="/community">Комьюнити</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="/profile">profile</a>
+                    <a className="nav-link" href="/profile">Профиль</a>
                 </li>
             </ul>
         </div>

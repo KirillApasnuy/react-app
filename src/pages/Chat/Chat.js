@@ -1,9 +1,11 @@
 import React from 'react';
-
+import "./Chat.css"
 const Chat = () => {
     return (
-        <div>
-            Chat
+        <div className={"chatBody"}>
+            <div className="loading spinner-border text-light" role="status">
+                <span className="visually-hidden">Loading...</span>
+            </div>
         </div>
     );
 };

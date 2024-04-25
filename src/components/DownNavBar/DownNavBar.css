@@ -1,9 +1,16 @@
 .nav {
     display: flex;
-    /*align-items: center;*/
-
-    justify-content: space-between;
+    align-content: center;
+    justify-content: center;
     padding: 10px;
     margin-right: 0;
     margin-left: 0;
+    height: 70px;
+    font-size: 18px;
+}
+.nav-item {
+    color: white;
+}
+.downNavBar{
+    background-color: #2f2f2f;
 }

@@ -1,0 +1,47 @@
+.profileBody {
+    min-height: 95vh;
+    height: auto;
+    background-color: #3f393f;
+}
+.contactInformation {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+
+}
+.contactInformation h6 {
+    font-size: 30px;
+}
+.contentContactInformation {
+    display: flex;
+    flex-direction: column;
+}
+.briefcase h5 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.briefcase {
+    padding: 10px;
+}
+.list-group-item {
+    font-size: 20px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.setting {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 50px;
+
+}
+.setting h5 {
+    color: white;
+    font-size: 30px;
+}

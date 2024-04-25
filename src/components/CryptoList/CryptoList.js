@@ -112,7 +112,7 @@ const CryptoList = () => {
         <div className={"scrollableContainer"}>
             <ul className={"cryptoHorList"}>
                 {crypto.data.map(item => (
-                    <li className={"item"}><CryptoItem item={item}/></li>
+                    <li className={"item"} key={item.id}><CryptoItem item={item}/></li>
                 ))}
             </ul>
         </div>

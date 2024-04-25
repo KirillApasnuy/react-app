@@ -1,0 +1,11 @@
+.communityBody {
+    height: auto;
+    background-color: #3f393f;
+}
+
+.testTitle {
+    font-size: 35px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
