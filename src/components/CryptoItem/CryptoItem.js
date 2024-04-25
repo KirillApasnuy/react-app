@@ -1,11 +1,11 @@
 import React from 'react';
 import "./CryptoItem.css"
-import {ReactComponent as Ruble} from "../../resorces/icon/ruble.svg";
-import Bitcoin from "../../resorces/icomComponents/Bitcoin";
-import Ethereum from "../../resorces/icomComponents/Ethereum";
-import Tether from "../../resorces/icomComponents/Tether";
-import ArrowDownRight from "../../resorces/icomComponents/ArrowDownRight";
-import ArrowUpRight from "../../resorces/icomComponents/ArrowUpRight";
+import {ReactComponent as Ruble} from "../../assets/icon/ruble.svg";
+import Bitcoin from "../../assets/icomComponents/Bitcoin";
+import Ethereum from "../../assets/icomComponents/Ethereum";
+import Tether from "../../assets/icomComponents/Tether";
+import ArrowDownRight from "../../assets/icomComponents/ArrowDownRight";
+import ArrowUpRight from "../../assets/icomComponents/ArrowUpRight";
 const CryptoItem = ({item}) => {
     const symbol = {
         BTC: <Bitcoin width={40} height={40}/>,

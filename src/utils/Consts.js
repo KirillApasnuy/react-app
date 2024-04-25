@@ -1,6 +1,6 @@
-import Bitcoin from "../resorces/icomComponents/Bitcoin";
-import Ethereum from "../resorces/icomComponents/Ethereum";
-import Tether from "../resorces/icomComponents/Tether";
+import Bitcoin from "../assets/icomComponents/Bitcoin";
+import Ethereum from "../assets/icomComponents/Ethereum";
+import Tether from "../assets/icomComponents/Tether";
 import React from "react";
 
 export const symbol = {

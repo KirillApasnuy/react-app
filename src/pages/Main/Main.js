@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Main.css"
 import CryptoList from "../../components/CryptoList/CryptoList";
-import {ReactComponent as Ruble} from "../../resorces/icon/ruble.svg";
+import {ReactComponent as Ruble} from "../../assets/icon/ruble.svg";
 
 const Main = () => {
     // если не пришли данные с бд, до по дефолту 0

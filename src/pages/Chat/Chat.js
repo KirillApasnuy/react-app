@@ -3,7 +3,7 @@ import "./Chat.css"
 const Chat = () => {
     return (
         <div className={"chatBody"}>
-            <div className="loading spinner-border text-light" role="status">
+            <div className="spinner-border text-light" role="status">
                 <span className="visually-hidden">Loading...</span>
             </div>
         </div>

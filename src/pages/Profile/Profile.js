@@ -1,10 +1,10 @@
 import React from 'react';
 import "./Profile.css"
 import {useTelegram} from "../../hooks/useTelegram";
-import Bitcoin from "../../resorces/icomComponents/Bitcoin";
-import Ethereum from "../../resorces/icomComponents/Ethereum";
-import Tether from "../../resorces/icomComponents/Tether";
-import {ReactComponent as Ruble} from "../../resorces/icon/ruble.svg";
+import Bitcoin from "../../assets/icomComponents/Bitcoin";
+import Ethereum from "../../assets/icomComponents/Ethereum";
+import Tether from "../../assets/icomComponents/Tether";
+import {ReactComponent as Ruble} from "../../assets/icon/ruble.svg";
 
 const Profile = () => {
         // почему то не получилось сделать экспорт этого объекта, по этому так(

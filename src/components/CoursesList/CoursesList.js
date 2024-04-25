@@ -3,6 +3,7 @@ import axios from "axios";
 import CoursesItem from "../CoursesItem/CoursesItem";
 import "./CoursesList.css"
 const CoursesList = () => {
+    // к сожалению, не хватило временни довести до ума, почему  то высвечивалось только 1 видео(((
     // const [playlist, setPlaylist] = useState([]);
     // useEffect( async () => {
     //     const options = {
