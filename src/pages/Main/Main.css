@@ -32,7 +32,7 @@
 }
 
 .entrailsCard {
-    background-color: var(--tg-theme-bg-color);
+    background-color: var(--tg-theme-text-color);
     border-radius: 5px;
     padding: 10px;
     display: flex;
@@ -40,8 +40,8 @@
     text-align: center;
 }
 .entrailsCard h5 {
-    color: var(--tg-theme-text-color);
+    color: var(--tg-theme-bg-color);
 }
 .entrailsCard p{
-    color: var(--tg-theme-text-color);
+    color: var(--tg-theme-bg-color);
 }
