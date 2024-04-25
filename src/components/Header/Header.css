@@ -7,6 +7,9 @@
     background-color: var(--tg-theme-header-bg-color);
 
 }
+.header button {
+    color: var(--tg-theme-text-color);
+}
 .header img {
     border-radius: 8px;
 }

@@ -32,7 +32,7 @@
 }
 
 .entrailsCard {
-    background-color: white;
+    background-color: var(--tg-theme-bg-color);
     border-radius: 5px;
     padding: 10px;
     display: flex;

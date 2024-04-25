@@ -1,7 +1,7 @@
 .profileBody {
     min-height: 95vh;
     height: auto;
-    background-color: #3f393f;
+    background-color: var(--tg-theme-bg-color);
 }
 .contactInformation {
     display: flex;
@@ -21,7 +21,7 @@
 }
 .briefcase h5 {
     font-size: 30px;
-    color: white;
+    color: var(--tg-theme-text-color);
     text-align: center;
 }
 .briefcase {
@@ -42,6 +42,6 @@
 
 }
 .setting h5 {
-    color: white;
+    color: var(--tg-theme-text-color);
     font-size: 30px;
 }

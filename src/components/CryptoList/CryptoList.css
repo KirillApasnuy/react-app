@@ -14,7 +14,7 @@
     display: flex;
     /*width: 120px;*/
     /*height: 80px;*/
-    background-color: #494949;
+    background-color: var(--tg-theme-bg-color);
     border-radius: 8px;
     justify-content: center;
     align-items: center;

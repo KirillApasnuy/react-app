@@ -10,7 +10,7 @@
     display: flex;
     /*width: 120px;*/
     /*height: 80px;*/
-    background-color: #494949;
+    background-color: var(--tg-theme-bg-color);
     border-radius: 8px;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@
 
 .coursesTitle {
     font-size: 35px;
-    color: white;
+    color: var(--tg-theme-text-color);
     padding-left: 10px;
     padding-top: 10px;
 }
