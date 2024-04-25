@@ -9,7 +9,7 @@
     justify-content: center;
     text-align: center;
     padding-top: 50px;
-    color: white;
+    color: var(--tg-theme-text-color);
 
 }
 .contactInformation h6 {
@@ -44,4 +44,7 @@
 .setting h5 {
     color: var(--tg-theme-text-color);
     font-size: 30px;
+}
+.contentContactInformation h6 {
+    color: var(--tg-theme-text-color)   ;
 }

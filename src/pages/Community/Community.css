@@ -1,6 +1,6 @@
 .communityBody {
     height: auto;
-    background-color: #3f393f;
+    background-color: var(--tg-theme-bg-color);
 }
 
 .testTitle {
